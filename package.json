@@ -5,8 +5,16 @@
   "repository": "git@github.com:Vanaland/tags.git",
   "author": "Vannaland <admin@vannaland.site>",
   "license": "MIT",
+  "scripts": {
+    "load": "node scripts/load.js"
+  },
   "devDependencies": {
     "@umijs/fabric": "^2.0.3",
-    "prettier": "^1.19.1"
+    "prettier": "^1.19.1",
+    "umi-request": "^1.2.19"
+  },
+  "dependencies": {
+    "http-proxy-agent": "^4.0.1",
+    "https-proxy-agent": "^5.0.0"
   }
 }
