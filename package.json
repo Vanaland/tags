@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "git@github.com:Vanaland/tags.git",
   "author": "Vannaland <admin@vannaland.site>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@umijs/fabric": "^2.0.3",
+    "prettier": "^1.19.1"
+  }
 }
