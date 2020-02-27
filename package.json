@@ -9,7 +9,7 @@
     "load": "node scripts/load.js",
     "merge": "ts-node src/merge.ts",
     "generate": "ts-node src/generate.ts",
-    "build": "yarn load && yarn merge && yarn generate"
+    "build": "yarn merge && yarn generate"
   },
   "devDependencies": {
     "@umijs/fabric": "^2.0.3",
