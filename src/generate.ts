@@ -30,7 +30,7 @@ function load(language: string) {
       });
     });
   });
-  fs.writeFileSync(srcPath(`../dist/${language}.json`), JSON.stringify(result));
+  fs.writeFileSync(srcPath(`../dist/${language}.json`), JSON.stringify(result, null, 2));
 }
 
 load('zh-CN');
