@@ -24,10 +24,13 @@
     "namespace": "female"
   },
   {
-    "name": "萝莉",
-    "intro": "有性的情景或裸体的未成年少女。不与一般年轻女孩混淆；应该拥有未充分发育的的身体。标记时，只考虑外观。是巨乳萝莉(oppai loli)、未通过萝莉(low lolicon)的前置标签。\n画廊只需要包含一张这种性质的图片就需要打上此标签。将发送画廊到思念峡湾。",
+    "name": "蘿莉",
+    "intro": "有性的情景或裸體的未成年少女。不與壹般年輕女孩混淆；應該擁有未充分發育的的身體。標記時，只考慮外觀。是巨乳蘿莉(oppai loli)、未通過蘿莉(low lolicon)的前置標簽。\n畫廊只需要包含壹張這種性質的圖片就需要打上此標簽。將發送畫廊到思念峽灣。",
     "otherLanguage": [
-      "lolicon"
+      "lolicon",
+      "蘿莉控",
+      "萝莉",
+      "萝莉控"
     ],
     "namespace": "female"
   },
@@ -8580,9 +8583,7 @@
   {
     "name": "emily",
     "intro": "",
-    "otherLanguage": [
-      "emily"
-    ],
+    "otherLanguage": [],
     "namespace": "artist"
   },
   {
@@ -8612,9 +8613,7 @@
   {
     "name": "ideolo",
     "intro": "国人绘师ideolo，原籍上海，大学时期开始学习绘画，后赴日留学，目前主要活跃在日本。他在中日两国同人圈内都拥有相当人气，插画题材以东方PROJECT系列居多，曾多次为博丽神社例大祭等日本同人活动绘制公式绘。",
-    "otherLanguage": [
-      "ideolo"
-    ],
+    "otherLanguage": [],
     "namespace": "artist"
   },
   {
@@ -16468,9 +16467,7 @@
   {
     "name": "myu-po",
     "intro": "",
-    "otherLanguage": [
-      "myu-po"
-    ],
+    "otherLanguage": [],
     "namespace": "artist"
   },
   {
@@ -17316,17 +17313,13 @@
   {
     "name": "obiwan",
     "intro": "",
-    "otherLanguage": [
-      "obiwan"
-    ],
+    "otherLanguage": [],
     "namespace": "artist"
   },
   {
     "name": "xin",
     "intro": "",
-    "otherLanguage": [
-      "xin"
-    ],
+    "otherLanguage": [],
     "namespace": "artist"
   },
   {
@@ -17340,9 +17333,7 @@
   {
     "name": "7zu7",
     "intro": "",
-    "otherLanguage": [
-      "7zu7"
-    ],
+    "otherLanguage": [],
     "namespace": "artist"
   },
   {
@@ -22404,9 +22395,7 @@
   {
     "name": "kakifly",
     "intro": "kakifly（日语：かきふらい），日本男性漫画家，出身于京都府。其代表作是四格漫画《K-ON！轻音部》，连载于芳文社的杂志《Manga Time Kirara》、《Manga Time Kirara Carat》。",
-    "otherLanguage": [
-      "kakifly"
-    ],
+    "otherLanguage": [],
     "namespace": "artist"
   },
   {
@@ -27068,9 +27057,7 @@
   {
     "name": "cafekun",
     "intro": "",
-    "otherLanguage": [
-      "cafekun"
-    ],
+    "otherLanguage": [],
     "namespace": "artist"
   },
   {
@@ -27148,9 +27135,7 @@
   {
     "name": "ke-ta",
     "intro": "以东方二次创作为主的画师",
-    "otherLanguage": [
-      "ke-ta"
-    ],
+    "otherLanguage": [],
     "namespace": "artist"
   },
   {
@@ -28572,25 +28557,19 @@
   {
     "name": "mana",
     "intro": "",
-    "otherLanguage": [
-      "mana"
-    ],
+    "otherLanguage": [],
     "namespace": "group"
   },
   {
     "name": "sprite",
     "intro": "sprite是日本成人游戏品牌，fairys是全年龄美少女游戏品牌，互为姊妹社。",
-    "otherLanguage": [
-      "sprite"
-    ],
+    "otherLanguage": [],
     "namespace": "group"
   },
   {
     "name": "fairys",
     "intro": "fairys原本也是有限会社アクセル的品牌，2012年3月以フェアリス株式会社为名独自成立为一家公司，分社化经营。",
-    "otherLanguage": [
-      "fairys"
-    ],
+    "otherLanguage": [],
     "namespace": "group"
   },
   {
@@ -28716,9 +28695,7 @@
   {
     "name": "ensemble",
     "intro": "ensemble 是日本一家成人游戏制作公司，主要制作大小姐恋爱AVG游戏，姐妹品牌为 ensemble SWEET。",
-    "otherLanguage": [
-      "ensemble"
-    ],
+    "otherLanguage": [],
     "namespace": "group"
   },
   {
@@ -28908,17 +28885,13 @@
   {
     "name": "etude",
     "intro": "",
-    "otherLanguage": [
-      "etude"
-    ],
+    "otherLanguage": [],
     "namespace": "group"
   },
   {
     "name": "eufonie",
     "intro": "etude 的姐妹品牌",
-    "otherLanguage": [
-      "eufonie"
-    ],
+    "otherLanguage": [],
     "namespace": "group"
   },
   {
@@ -28956,9 +28929,7 @@
   {
     "name": "seal-tutu",
     "intro": "softhouse-seal 子品牌",
-    "otherLanguage": [
-      "seal-tutu"
-    ],
+    "otherLanguage": [],
     "namespace": "group"
   },
   {
@@ -28972,9 +28943,7 @@
   {
     "name": "softhouse-seal",
     "intro": "抜作之家\n撸死你！",
-    "otherLanguage": [
-      "softhouse-seal"
-    ],
+    "otherLanguage": [],
     "namespace": "group"
   },
   {
@@ -29100,9 +29069,7 @@
   {
     "name": "feng",
     "intro": "feng 是一家位于日本千叶县市川市的游戏制作公司（白玫瑰有限公司）。名字来源于汉字里的风的拼音。",
-    "otherLanguage": [
-      "feng"
-    ],
+    "otherLanguage": [],
     "namespace": "group"
   },
   {
@@ -29228,9 +29195,7 @@
   {
     "name": "5pb.",
     "intro": "",
-    "otherLanguage": [
-      "5pb."
-    ],
+    "otherLanguage": [],
     "namespace": "group"
   },
   {
@@ -33500,9 +33465,7 @@
   {
     "name": "slice slime",
     "intro": "",
-    "otherLanguage": [
-      "slice slime"
-    ],
+    "otherLanguage": [],
     "namespace": "group"
   },
   {
@@ -34724,9 +34687,7 @@
   {
     "name": "mof-mof",
     "intro": "WOMI 所在社团 mof-mof",
-    "otherLanguage": [
-      "mof-mof"
-    ],
+    "otherLanguage": [],
     "namespace": "group"
   },
   {
@@ -36540,9 +36501,7 @@
   {
     "name": "sol-fa-soft",
     "intro": "同人游戏社团",
-    "otherLanguage": [
-      "sol-fa-soft"
-    ],
+    "otherLanguage": [],
     "namespace": "group"
   },
   {
@@ -37676,9 +37635,7 @@
   {
     "name": "candy paddle",
     "intro": "ネムネム",
-    "otherLanguage": [
-      "candy paddle"
-    ],
+    "otherLanguage": [],
     "namespace": "group"
   },
   {
@@ -38004,9 +37961,7 @@
   {
     "name": "pinvise",
     "intro": "",
-    "otherLanguage": [
-      "pinvise"
-    ],
+    "otherLanguage": [],
     "namespace": "group"
   },
   {
@@ -39404,9 +39359,7 @@
   {
     "name": "milkberry",
     "intro": "如月みゆ",
-    "otherLanguage": [
-      "milkberry"
-    ],
+    "otherLanguage": [],
     "namespace": "group"
   },
   {
@@ -39444,9 +39397,7 @@
   {
     "name": "wadamemo",
     "intro": "ワダアルコ",
-    "otherLanguage": [
-      "wadamemo"
-    ],
+    "otherLanguage": [],
     "namespace": "group"
   },
   {
@@ -40012,9 +39963,7 @@
   {
     "name": "seventh zest",
     "intro": "六ツ野へきさ",
-    "otherLanguage": [
-      "seventh zest"
-    ],
+    "otherLanguage": [],
     "namespace": "group"
   },
   {
@@ -40444,9 +40393,7 @@
   {
     "name": "sad.co",
     "intro": "",
-    "otherLanguage": [
-      "sad.co"
-    ],
+    "otherLanguage": [],
     "namespace": "group"
   },
   {
@@ -47540,9 +47487,7 @@
   {
     "name": ".hack",
     "intro": "",
-    "otherLanguage": [
-      ".hack"
-    ],
+    "otherLanguage": [],
     "namespace": "parody"
   },
   {

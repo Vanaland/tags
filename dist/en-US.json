@@ -27,7 +27,10 @@
     "name": "lolicon",
     "intro": null,
     "otherLanguage": [
-      "萝莉"
+      "蘿莉",
+      "蘿莉控",
+      "萝莉",
+      "萝莉控"
     ],
     "namespace": "female"
   },
@@ -8147,7 +8150,8 @@
     "name": "full color",
     "intro": null,
     "otherLanguage": [
-      "全彩色"
+      "全彩色",
+      "全彩"
     ],
     "namespace": "misc"
   },
@@ -8579,9 +8583,7 @@
   {
     "name": "emily",
     "intro": null,
-    "otherLanguage": [
-      "emily"
-    ],
+    "otherLanguage": [],
     "namespace": "artist"
   },
   {
@@ -8611,9 +8613,7 @@
   {
     "name": "ideolo",
     "intro": null,
-    "otherLanguage": [
-      "ideolo"
-    ],
+    "otherLanguage": [],
     "namespace": "artist"
   },
   {
@@ -16467,9 +16467,7 @@
   {
     "name": "myu-po",
     "intro": null,
-    "otherLanguage": [
-      "myu-po"
-    ],
+    "otherLanguage": [],
     "namespace": "artist"
   },
   {
@@ -17315,17 +17313,13 @@
   {
     "name": "obiwan",
     "intro": null,
-    "otherLanguage": [
-      "obiwan"
-    ],
+    "otherLanguage": [],
     "namespace": "artist"
   },
   {
     "name": "xin",
     "intro": null,
-    "otherLanguage": [
-      "xin"
-    ],
+    "otherLanguage": [],
     "namespace": "artist"
   },
   {
@@ -17339,9 +17333,7 @@
   {
     "name": "7zu7",
     "intro": null,
-    "otherLanguage": [
-      "7zu7"
-    ],
+    "otherLanguage": [],
     "namespace": "artist"
   },
   {
@@ -22403,9 +22395,7 @@
   {
     "name": "kakifly",
     "intro": null,
-    "otherLanguage": [
-      "kakifly"
-    ],
+    "otherLanguage": [],
     "namespace": "artist"
   },
   {
@@ -27067,9 +27057,7 @@
   {
     "name": "cafekun",
     "intro": null,
-    "otherLanguage": [
-      "cafekun"
-    ],
+    "otherLanguage": [],
     "namespace": "artist"
   },
   {
@@ -27147,9 +27135,7 @@
   {
     "name": "ke-ta",
     "intro": null,
-    "otherLanguage": [
-      "ke-ta"
-    ],
+    "otherLanguage": [],
     "namespace": "artist"
   },
   {
@@ -28571,25 +28557,19 @@
   {
     "name": "mana",
     "intro": null,
-    "otherLanguage": [
-      "mana"
-    ],
+    "otherLanguage": [],
     "namespace": "group"
   },
   {
     "name": "sprite",
     "intro": null,
-    "otherLanguage": [
-      "sprite"
-    ],
+    "otherLanguage": [],
     "namespace": "group"
   },
   {
     "name": "fairys",
     "intro": null,
-    "otherLanguage": [
-      "fairys"
-    ],
+    "otherLanguage": [],
     "namespace": "group"
   },
   {
@@ -28715,9 +28695,7 @@
   {
     "name": "ensemble",
     "intro": null,
-    "otherLanguage": [
-      "ensemble"
-    ],
+    "otherLanguage": [],
     "namespace": "group"
   },
   {
@@ -28907,17 +28885,13 @@
   {
     "name": "etude",
     "intro": null,
-    "otherLanguage": [
-      "etude"
-    ],
+    "otherLanguage": [],
     "namespace": "group"
   },
   {
     "name": "eufonie",
     "intro": null,
-    "otherLanguage": [
-      "eufonie"
-    ],
+    "otherLanguage": [],
     "namespace": "group"
   },
   {
@@ -28955,9 +28929,7 @@
   {
     "name": "seal-tutu",
     "intro": null,
-    "otherLanguage": [
-      "seal-tutu"
-    ],
+    "otherLanguage": [],
     "namespace": "group"
   },
   {
@@ -28971,9 +28943,7 @@
   {
     "name": "softhouse-seal",
     "intro": null,
-    "otherLanguage": [
-      "softhouse-seal"
-    ],
+    "otherLanguage": [],
     "namespace": "group"
   },
   {
@@ -29099,9 +29069,7 @@
   {
     "name": "feng",
     "intro": null,
-    "otherLanguage": [
-      "feng"
-    ],
+    "otherLanguage": [],
     "namespace": "group"
   },
   {
@@ -29227,9 +29195,7 @@
   {
     "name": "5pb.",
     "intro": null,
-    "otherLanguage": [
-      "5pb."
-    ],
+    "otherLanguage": [],
     "namespace": "group"
   },
   {
@@ -33499,9 +33465,7 @@
   {
     "name": "slice slime",
     "intro": null,
-    "otherLanguage": [
-      "slice slime"
-    ],
+    "otherLanguage": [],
     "namespace": "group"
   },
   {
@@ -34723,9 +34687,7 @@
   {
     "name": "mof-mof",
     "intro": null,
-    "otherLanguage": [
-      "mof-mof"
-    ],
+    "otherLanguage": [],
     "namespace": "group"
   },
   {
@@ -36539,9 +36501,7 @@
   {
     "name": "sol-fa-soft",
     "intro": null,
-    "otherLanguage": [
-      "sol-fa-soft"
-    ],
+    "otherLanguage": [],
     "namespace": "group"
   },
   {
@@ -37675,9 +37635,7 @@
   {
     "name": "candy paddle",
     "intro": null,
-    "otherLanguage": [
-      "candy paddle"
-    ],
+    "otherLanguage": [],
     "namespace": "group"
   },
   {
@@ -38003,9 +37961,7 @@
   {
     "name": "pinvise",
     "intro": null,
-    "otherLanguage": [
-      "pinvise"
-    ],
+    "otherLanguage": [],
     "namespace": "group"
   },
   {
@@ -39403,9 +39359,7 @@
   {
     "name": "milkberry",
     "intro": null,
-    "otherLanguage": [
-      "milkberry"
-    ],
+    "otherLanguage": [],
     "namespace": "group"
   },
   {
@@ -39443,9 +39397,7 @@
   {
     "name": "wadamemo",
     "intro": null,
-    "otherLanguage": [
-      "wadamemo"
-    ],
+    "otherLanguage": [],
     "namespace": "group"
   },
   {
@@ -40011,9 +39963,7 @@
   {
     "name": "seventh zest",
     "intro": null,
-    "otherLanguage": [
-      "seventh zest"
-    ],
+    "otherLanguage": [],
     "namespace": "group"
   },
   {
@@ -40443,9 +40393,7 @@
   {
     "name": "sad.co",
     "intro": null,
-    "otherLanguage": [
-      "sad.co"
-    ],
+    "otherLanguage": [],
     "namespace": "group"
   },
   {
@@ -47539,9 +47487,7 @@
   {
     "name": ".hack",
     "intro": null,
-    "otherLanguage": [
-      ".hack"
-    ],
+    "otherLanguage": [],
     "namespace": "parody"
   },
   {

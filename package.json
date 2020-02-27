@@ -13,12 +13,14 @@
   },
   "devDependencies": {
     "@umijs/fabric": "^2.0.3",
+    "lodash": "^4.17.15",
     "prettier": "^1.19.1",
     "ts-node": "^8.6.2",
     "typescript": "^3.8.2",
     "umi-request": "^1.2.19"
   },
   "dependencies": {
+    "@types/lodash": "^4.14.149",
     "compressing": "^1.5.0",
     "http-proxy-agent": "^4.0.1",
     "https-proxy-agent": "^5.0.0"

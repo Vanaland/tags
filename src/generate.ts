@@ -1,5 +1,6 @@
 import { TagData, srcPath, TagNameSpace } from './merge';
 import * as fs from 'fs';
+import * as _ from 'lodash';
 
 const dataPath = srcPath('db.json');
 
@@ -21,16 +22,19 @@ function load(language: string, fallback: string = 'en-US') {
       const tagInfo = tag[currentLanguage];
       const name = tagInfo.name;
       const intro = tagInfo.intro ?? null;
-      let otherLanguage = Object.keys(tag)
-        .filter(o => o !== currentLanguage)
-        .map(o => tag[o].name);
-      if (Array.isArray(tagInfo.alias)) {
-        otherLanguage = otherLanguage.concat(tagInfo.alias);
-      }
+      let otherLanguage = Object.keys(tag).map(o => {
+        let result: string[] = [tag[o].name];
+        if (Array.isArray(tag[o].alias)) {
+          result = result.concat(tag[o].alias!);
+        }
+        return result;
+      });
+      const otherLanguageSet = new Set(_.flattenDeep(otherLanguage));
+      otherLanguageSet.delete(tagInfo.name);
       result.push({
         name,
         intro,
-        otherLanguage: Array.from(new Set(otherLanguage)),
+        otherLanguage: Array.from(otherLanguageSet),
         namespace,
       });
     });
