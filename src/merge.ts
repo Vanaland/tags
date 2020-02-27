@@ -1,7 +1,7 @@
 import * as fs from 'fs';
 import * as path from 'path';
 
-const enum TagNameSpace {
+export const enum TagNameSpace {
   /** 女性 */
   female = 'female',
   /** 男性 */
@@ -34,7 +34,7 @@ const TagNameSpaceValues = [
   TagNameSpace.language,
 ];
 
-interface TagData {
+export interface TagData {
   [namespace: string]: {
     [key: string]: {
       [language: string]: {
@@ -45,7 +45,7 @@ interface TagData {
   };
 }
 
-interface RawData {
+export interface RawData {
   data: {
     namespace: string;
     data: {
@@ -57,7 +57,7 @@ interface RawData {
   }[];
 }
 
-const srcPath = (filename: string) => {
+export const srcPath = (filename: string) => {
   return path.join(__dirname, filename);
 };
 
