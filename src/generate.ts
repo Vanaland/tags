@@ -21,13 +21,16 @@ function load(language: string, fallback: string = 'en-US') {
       const tagInfo = tag[currentLanguage];
       const name = tagInfo.name;
       const intro = tagInfo.intro ?? null;
-      const otherLanguage = Object.keys(tag)
+      let otherLanguage = Object.keys(tag)
         .filter(o => o !== currentLanguage)
         .map(o => tag[o].name);
+      if (Array.isArray(tagInfo.alias)) {
+        otherLanguage = otherLanguage.concat(tagInfo.alias);
+      }
       result.push({
         name,
         intro,
-        otherLanguage,
+        otherLanguage: Array.from(new Set(otherLanguage)),
         namespace,
       });
     });

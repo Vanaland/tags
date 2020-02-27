@@ -8147,7 +8147,8 @@
     "name": "全彩色",
     "intro": "正文每一页都是彩色的。少数非故事页的非彩色图片不算在内。不用于 CG 集、图片集(imageset)和 3D(3d)画廊。",
     "otherLanguage": [
-      "full color"
+      "full color",
+      "全彩"
     ],
     "namespace": "misc"
   },

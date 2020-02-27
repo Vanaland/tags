@@ -38,6 +38,7 @@ export interface TagData {
   [namespace: string]: {
     [key: string]: {
       [language: string]: {
+        alias?: string[];
         name: string;
         intro?: string;
       };
@@ -83,7 +84,7 @@ rawData.data
     Object.keys(data).forEach(key => {
       const value = tagData[namespace][key] ?? {};
       value['en-US'] = { name: key };
-      value['zh-CN'] = { name: data[key].name, intro: data[key].intro };
+      value['zh-CN'] = { ...value['zh-CN'], name: data[key].name, intro: data[key].intro };
       tagData[namespace][key] = value;
     });
   });
