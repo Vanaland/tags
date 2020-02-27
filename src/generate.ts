@@ -12,15 +12,17 @@ export interface Tag {
   namespace: TagNameSpace;
 }
 
-function load(language: string) {
+function load(language: string, fallback: string = 'en-US') {
   const result: Tag[] = [];
   Object.keys(tagData).forEach((namespace: TagNameSpace) => {
     const tags = Object.values(tagData[namespace]);
     tags.forEach(tag => {
-      const name = tag[language].name;
-      const intro = tag[language].intro ?? null;
+      const currentLanguage = tag[language] ? language : fallback;
+      const tagInfo = tag[currentLanguage];
+      const name = tagInfo.name;
+      const intro = tagInfo.intro ?? null;
       const otherLanguage = Object.keys(tag)
-        .filter(o => o !== language)
+        .filter(o => o !== currentLanguage)
         .map(o => tag[o].name);
       result.push({
         name,
@@ -35,3 +37,4 @@ function load(language: string) {
 
 load('zh-CN');
 load('en-US');
+load('zh-TW', 'zh-CN');
