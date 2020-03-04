@@ -1,17 +1,17 @@
 {
   "head": {
     "author": {
-      "name": "OpportunityLiu",
-      "email": "13471233+OpportunityLiu@users.noreply.github.com",
-      "when": "2020-02-26T12:03:04+00:00"
+      "name": "NanaTsubasa",
+      "email": "45740578+NanaTsubasa@users.noreply.github.com",
+      "when": "2020-03-03T22:21:31+00:00"
     },
     "committer": {
       "name": "EhTagApi-Bot",
       "email": "47353891+EhTagApi-Bot@users.noreply.github.com",
-      "when": "2020-02-26T12:03:04+00:00"
+      "when": "2020-03-03T22:21:31+00:00"
     },
-    "sha": "f8d89a52ee356184804a80f008ebeea0972d67bd",
-    "message": "In artist: Added 'hatomizu'.\n\nPrev value: (nonexistence)\nCurr value: | hatomizu | ハト水 |  | [pixiv](https://www.pixiv.net/users/7043383) |\n"
+    "sha": "13e814e2ecca2070db701c91ef2bce5cf041c2de",
+    "message": "添加 artist: 'hoshi' - 'ほし'.\n\n|     | 原始标签 | 名称 | 描述 | 外部链接 |\n| --- | -------- | ---- | ---- | -------- |\n| 修改前 | | | | |\n| 修改后 | hoshi | ほし |  | [pixiv](https://www.pixiv.net/users/1198913)<br>[Twitter](https://twitter.com/hoshi_u3) |\n"
   },
   "version": 5,
   "repo": "https://github.com/EhTagTranslation/Database.git",
@@ -375,10 +375,10 @@
         "rules": [
           "优先写公认的中文翻译，不知道的也可以写日文原名。",
           "第一推荐萌娘百科，也可以用百度百科或维基百科查译名。",
-          "图片尽量出现尽可能多的主角，或者其他易于辨识的作品标志物。"
+          "描述图片尽量出现尽可能多的主角，或者其他易于辨识的作品标志物。"
         ]
       },
-      "count": 1377,
+      "count": 1393,
       "data": {
         "original": {
           "name": "原创",
@@ -7264,6 +7264,86 @@
           "name": "邪神与厨二病少女",
           "intro": "",
           "links": ""
+        },
+        "ishuzoku reviewers": {
+          "name": "异种族风俗娘评鉴指南",
+          "intro": "《异种族风俗娘评鉴指南》（日语：异种族レビュアーズ；英语：Interspecies Reviewers）是由天原创作、masha作画的一部漫画，并有动画等衍生作品。",
+          "links": "萌娘百科"
+        },
+        "d-frag": {
+          "name": "属性同好会",
+          "intro": "",
+          "links": ""
+        },
+        "heavens memo pad": {
+          "name": "神的记事本",
+          "intro": "",
+          "links": ""
+        },
+        "houkago play": {
+          "name": "放课后play",
+          "intro": "",
+          "links": ""
+        },
+        "ookiku furikabutte": {
+          "name": "王牌投手 振臂高挥",
+          "intro": "",
+          "links": ""
+        },
+        "black bullet": {
+          "name": "漆黑的子弹",
+          "intro": "",
+          "links": ""
+        },
+        "mawaru penguindrum": {
+          "name": "回转企鹅罐",
+          "intro": "",
+          "links": ""
+        },
+        "ben-to": {
+          "name": "便·当",
+          "intro": "",
+          "links": ""
+        },
+        "one week friends": {
+          "name": "一周的朋友",
+          "intro": "",
+          "links": ""
+        },
+        "sanoba witch": {
+          "name": "魔女的夜宴",
+          "intro": "",
+          "links": ""
+        },
+        "tonari no seki-kun": {
+          "name": "上课小动作",
+          "intro": "",
+          "links": ""
+        },
+        "high score girl": {
+          "name": "高分少女",
+          "intro": "",
+          "links": ""
+        },
+        "claymore": {
+          "name": "大剑",
+          "intro": "",
+          "links": ""
+        },
+        "sinoalice": {
+          "name": "死亡爱丽丝",
+          "intro": "《死亡爱丽丝》（SINoALICE ーシノアリスー）是由Pokelabo开发、由Pokelabo与SQUARE ENIX共同运营的一款手机游戏。",
+          "links": "游戏官网"
+        },
+        "machikado mazoku": {
+          "name": "街角魔族",
+          "intro": "",
+          "links": ""
+        },
+        "the hunchback of notre dame": {
+          "name": "钟楼怪人",
+          "intro": "《钟楼怪人》（英语：The Hunchback of Notre Dame）是一部由华特迪士尼制作、于1996年首次上映的电脑动画电影。它的上映日期是1996年6月21日（香港则于同年7月4日上映），为第36部华特迪士尼经典动画长片。这部电影的原型是维克多·雨果的作品《巴黎圣母院》，虽然仍保有原作故事的基本架构，但是这部电影却改动了原作的大部分情节。其剧情重点放在一位吉普赛人舞者爱丝梅拉达、费比斯队长和加西莫多的三角恋上。其中加西莫多是主角，他在巴黎圣母院的钟楼中负责敲钟，长相虽然很丑陋却心地善良。",
+          "links": "维基百科 (*)"
         }
       }
     },
@@ -7279,7 +7359,7 @@
           "第一推荐萌娘百科，也可以用百度百科或维基百科查译名。"
         ]
       },
-      "count": 2318,
+      "count": 2340,
       "data": {
         "alice": {
           "name": "爱丽丝",
@@ -9208,12 +9288,27 @@
         },
         "ping hai": {
           "name": "平海",
-          "intro": "",
+          "intro": "手机游戏《碧蓝航线》及其衍生作品的登场角色。其原型本体是中华民国海军的平海号轻巡洋舰(Ping Hai)。",
           "links": "萌娘百科"
         },
         "ning hai": {
           "name": "宁海",
-          "intro": "",
+          "intro": "手机游戏《碧蓝航线》及其衍生作品的登场角色。其原型本体是中华民国海军的宁海号轻巡洋舰。",
+          "links": "萌娘百科"
+        },
+        "formidable": {
+          "name": "可畏",
+          "intro": "手机游戏《碧蓝航线》及其衍生作品的登场角色。其原型是同名的英国皇家海军的可畏号装甲航空母舰（HMS Formidable (67)） 。",
+          "links": "萌娘百科"
+        },
+        "admiral hipper": {
+          "name": "希佩尔海军上将",
+          "intro": "手机游戏《碧蓝航线》及其衍生作品的登场角色。其原型本体是纳粹德国海军的希佩尔海军上将号重巡洋舰（Admiral Hipper）。",
+          "links": "萌娘百科"
+        },
+        "portland": {
+          "name": "波特兰",
+          "intro": "手机游戏《碧蓝航线》及其衍生作品的登场角色。其原型本体是美国海军波特兰号重巡洋舰（ USS Portland (CA-33)）。",
           "links": "萌娘百科"
         },
         "cygnet": {
@@ -18870,6 +18965,101 @@
           "name": "美蓉",
           "intro": "",
           "links": ""
+        },
+        "kama": {
+          "name": "迦摩",
+          "intro": "在TYPE-MOON推出的安卓&iOS游戏《Fate/Grand Order》中登场的Servant，职阶为Assassin。",
+          "links": ""
+        },
+        "yu miaoyi": {
+          "name": "虞姬",
+          "intro": "在型月推出的安卓&iOS游戏《Fate/Grand Order》中登场的从者，职阶为Assassin。",
+          "links": ""
+        },
+        "beni-enma": {
+          "name": "红阎魔",
+          "intro": "在TYPE-MOON推出的安卓&iOS游戏《Fate/Grand Order》中登场的Servant，职阶为Saber。",
+          "links": ""
+        },
+        "carmilla": {
+          "name": "卡米拉",
+          "intro": "在TYPE-MOON的游戏《Fate/Grand Order》中登场的女性Servant。职阶为Assassin",
+          "links": ""
+        },
+        "valkyrie": {
+          "name": "瓦尔基里",
+          "intro": "瓦尔基里是TYPE-MOON推出的安卓&iOS游戏《Fate/Grand Order》中登场的Servant。职阶为Lancer。",
+          "links": ""
+        },
+        "chiyo shirayuki": {
+          "name": "白雪千夜",
+          "intro": "",
+          "links": ""
+        },
+        "chitose kurosaki": {
+          "name": "黑埼千岁",
+          "intro": "",
+          "links": ""
+        },
+        "kiyomi saejima": {
+          "name": "冴岛清美",
+          "intro": "",
+          "links": ""
+        },
+        "cure milky": {
+          "name": "羽衣拉拉",
+          "intro": "",
+          "links": ""
+        },
+        "rinko iori": {
+          "name": "伊织凛子",
+          "intro": "",
+          "links": ""
+        },
+        "sei iori": {
+          "name": "伊织诚",
+          "intro": "",
+          "links": ""
+        },
+        "bea": {
+          "name": "彩豆",
+          "intro": "",
+          "links": ""
+        },
+        "kudryavka noumi": {
+          "name": "能美库特莉亚芙卡",
+          "intro": "",
+          "links": "萌娘百科"
+        },
+        "yuuko shionji": {
+          "name": "紫苑寺有子",
+          "intro": "",
+          "links": "萌娘百科"
+        },
+        "narumi fujishima": {
+          "name": "藤岛鸣海",
+          "intro": "",
+          "links": ""
+        },
+        "sister cleaire": {
+          "name": "修女克蕾雅",
+          "intro": "",
+          "links": ""
+        },
+        "perth": {
+          "name": "珀斯",
+          "intro": "",
+          "links": ""
+        },
+        "momo chiyoda": {
+          "name": "千代田桃",
+          "intro": "",
+          "links": ""
+        },
+        "yuko yoshida": {
+          "name": "吉田优子",
+          "intro": "",
+          "links": ""
         }
       }
     },
@@ -18881,10 +19071,11 @@
         "description": "制作社团或公司。",
         "copyright": "对于标有(*)的条目，其描述文本复制/翻译自维基百科，遵循原始许可协议（即知识共享(Creative Commons) 署名-相同方式共享 3.0协议）进行二次分发。\n\n对于标有(**)的条目，其描述文本复制/翻译自萌娘百科，遵循原始许可协议（即知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议）进行二次分发。\n",
         "rules": [
-          "日文名中有汉字者优先写含汉字的名称，可在简介中写全假名或国内译名。"
+          "有官方或公认的中文名称时优先写中文名，否则写日文名。",
+          "日文名中有汉字者优先写含汉字的名称。"
         ]
       },
-      "count": 1573,
+      "count": 1581,
       "data": {
         "clockup": {
           "name": "CLOCKUP",
@@ -26750,6 +26941,46 @@
           "name": "H-gabmenters",
           "intro": "",
           "links": ""
+        },
+        "shichimen soka": {
+          "name": "七面楚歌",
+          "intro": "",
+          "links": ""
+        },
+        "shin nanka tou": {
+          "name": "新なんか党",
+          "intro": "",
+          "links": ""
+        },
+        "tefutefu.": {
+          "name": "てふてふ。",
+          "intro": "",
+          "links": ""
+        },
+        "menkui": {
+          "name": "めんくい",
+          "intro": "",
+          "links": ""
+        },
+        "amamineko cafe": {
+          "name": "あまみねこカフェ",
+          "intro": "",
+          "links": ""
+        },
+        "maron koubou": {
+          "name": "マロン工房",
+          "intro": "",
+          "links": ""
+        },
+        "nekomonido": {
+          "name": "ネコモニ堂",
+          "intro": "",
+          "links": ""
+        },
+        "nikuniku italian": {
+          "name": "にくにくイタリアン",
+          "intro": "",
+          "links": ""
         }
       }
     },
@@ -26761,11 +26992,12 @@
         "description": "绘画作者 / Coser。",
         "copyright": "对于标有(*)的条目，其描述文本复制/翻译自维基百科，遵循原始许可协议（即知识共享(Creative Commons) 署名-相同方式共享 3.0协议）进行二次分发。\n\n对于标有(**)的条目，其描述文本复制/翻译自萌娘百科，遵循原始许可协议（即知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议）进行二次分发。\n",
         "rules": [
-          "日文名中有汉字者优先写含汉字的名称，可在描述中写全假名或国内译名。",
-          "描述图片可用作者 P 站头像，或者为你自己喜爱的画师做一张图片，P 站头像无法外链，建议传新浪微博等能方便外链图片的地方。为排版好看，头像高度建议 200px 以内，当然头像里明显H的就不要放了。"
+          "有官方或公认的中文名称时优先写中文名，否则写日文名。",
+          "日文名中有汉字者优先写含汉字的名称。",
+          "描述图片可用作者的 pixiv 头像，或者为你自己喜爱的画师做一张图片。为排版好看，头像高度建议 200px 以内，当然头像里明显H的就不要放了。"
         ]
       },
-      "count": 2502,
+      "count": 2516,
       "data": {
         "pop": {
           "name": "POP",
@@ -37220,7 +37452,7 @@
         "sexyturkey": {
           "name": "すたーきー",
           "intro": "",
-          "links": ""
+          "links": "pixiv"
         },
         "shikkarimono no takashi-kun": {
           "name": "しっかり者のタカシくん",
@@ -39276,6 +39508,76 @@
           "name": "ハト水",
           "intro": "",
           "links": "pixiv"
+        },
+        "hiroya": {
+          "name": "广弥",
+          "intro": "",
+          "links": ""
+        },
+        "amamiya": {
+          "name": "アマミヤ",
+          "intro": "",
+          "links": "pixiv"
+        },
+        "nedia": {
+          "name": "ねでぃあ",
+          "intro": "",
+          "links": "pixiv"
+        },
+        "aiki": {
+          "name": "Aiki",
+          "intro": "",
+          "links": "pixiv"
+        },
+        "mumei": {
+          "name": "Mumei",
+          "intro": "",
+          "links": ""
+        },
+        "tefun": {
+          "name": "てふん",
+          "intro": "",
+          "links": ""
+        },
+        "shikoripa": {
+          "name": "しこりぱ",
+          "intro": "",
+          "links": "pixiv"
+        },
+        "tani takuya": {
+          "name": "谷拓也",
+          "intro": "",
+          "links": ""
+        },
+        "maron": {
+          "name": "魔龙",
+          "intro": "",
+          "links": ""
+        },
+        "yomoyama takashi": {
+          "name": "四方山贵史",
+          "intro": "",
+          "links": ""
+        },
+        "fuji tarawi": {
+          "name": "藤たらゐ",
+          "intro": "",
+          "links": "pixiv"
+        },
+        "mousou": {
+          "name": "妄想",
+          "intro": "",
+          "links": "pixiv"
+        },
+        "yokohama inka": {
+          "name": "よこはまインカ",
+          "intro": "",
+          "links": ""
+        },
+        "hoshi": {
+          "name": "ほし",
+          "intro": "",
+          "links": "pixiv\nTwitter"
         }
       }
     },
