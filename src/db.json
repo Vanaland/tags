@@ -32070,6 +32070,132 @@
         "name": "ハト水",
         "intro": ""
       }
+    },
+    "hiroya": {
+      "en-US": {
+        "name": "hiroya"
+      },
+      "zh-CN": {
+        "name": "广弥",
+        "intro": ""
+      }
+    },
+    "amamiya": {
+      "en-US": {
+        "name": "amamiya"
+      },
+      "zh-CN": {
+        "name": "アマミヤ",
+        "intro": ""
+      }
+    },
+    "nedia": {
+      "en-US": {
+        "name": "nedia"
+      },
+      "zh-CN": {
+        "name": "ねでぃあ",
+        "intro": ""
+      }
+    },
+    "aiki": {
+      "en-US": {
+        "name": "aiki"
+      },
+      "zh-CN": {
+        "name": "Aiki",
+        "intro": ""
+      }
+    },
+    "mumei": {
+      "en-US": {
+        "name": "mumei"
+      },
+      "zh-CN": {
+        "name": "Mumei",
+        "intro": ""
+      }
+    },
+    "tefun": {
+      "en-US": {
+        "name": "tefun"
+      },
+      "zh-CN": {
+        "name": "てふん",
+        "intro": ""
+      }
+    },
+    "shikoripa": {
+      "en-US": {
+        "name": "shikoripa"
+      },
+      "zh-CN": {
+        "name": "しこりぱ",
+        "intro": ""
+      }
+    },
+    "tani takuya": {
+      "en-US": {
+        "name": "tani takuya"
+      },
+      "zh-CN": {
+        "name": "谷拓也",
+        "intro": ""
+      }
+    },
+    "maron": {
+      "en-US": {
+        "name": "maron"
+      },
+      "zh-CN": {
+        "name": "魔龙",
+        "intro": ""
+      }
+    },
+    "yomoyama takashi": {
+      "en-US": {
+        "name": "yomoyama takashi"
+      },
+      "zh-CN": {
+        "name": "四方山贵史",
+        "intro": ""
+      }
+    },
+    "fuji tarawi": {
+      "en-US": {
+        "name": "fuji tarawi"
+      },
+      "zh-CN": {
+        "name": "藤たらゐ",
+        "intro": ""
+      }
+    },
+    "mousou": {
+      "en-US": {
+        "name": "mousou"
+      },
+      "zh-CN": {
+        "name": "妄想",
+        "intro": ""
+      }
+    },
+    "yokohama inka": {
+      "en-US": {
+        "name": "yokohama inka"
+      },
+      "zh-CN": {
+        "name": "よこはまインカ",
+        "intro": ""
+      }
+    },
+    "hoshi": {
+      "en-US": {
+        "name": "hoshi"
+      },
+      "zh-CN": {
+        "name": "ほし",
+        "intro": ""
+      }
     }
   },
   "group": {
@@ -46229,6 +46355,78 @@
         "name": "H-gabmenters",
         "intro": ""
       }
+    },
+    "shichimen soka": {
+      "en-US": {
+        "name": "shichimen soka"
+      },
+      "zh-CN": {
+        "name": "七面楚歌",
+        "intro": ""
+      }
+    },
+    "shin nanka tou": {
+      "en-US": {
+        "name": "shin nanka tou"
+      },
+      "zh-CN": {
+        "name": "新なんか党",
+        "intro": ""
+      }
+    },
+    "tefutefu.": {
+      "en-US": {
+        "name": "tefutefu."
+      },
+      "zh-CN": {
+        "name": "てふてふ。",
+        "intro": ""
+      }
+    },
+    "menkui": {
+      "en-US": {
+        "name": "menkui"
+      },
+      "zh-CN": {
+        "name": "めんくい",
+        "intro": ""
+      }
+    },
+    "amamineko cafe": {
+      "en-US": {
+        "name": "amamineko cafe"
+      },
+      "zh-CN": {
+        "name": "あまみねこカフェ",
+        "intro": ""
+      }
+    },
+    "maron koubou": {
+      "en-US": {
+        "name": "maron koubou"
+      },
+      "zh-CN": {
+        "name": "マロン工房",
+        "intro": ""
+      }
+    },
+    "nekomonido": {
+      "en-US": {
+        "name": "nekomonido"
+      },
+      "zh-CN": {
+        "name": "ネコモニ堂",
+        "intro": ""
+      }
+    },
+    "nikuniku italian": {
+      "en-US": {
+        "name": "nikuniku italian"
+      },
+      "zh-CN": {
+        "name": "にくにくイタリアン",
+        "intro": ""
+      }
     }
   },
   "parody": {
@@ -58624,6 +58822,150 @@
         "name": "邪神与厨二病少女",
         "intro": ""
       }
+    },
+    "ishuzoku reviewers": {
+      "en-US": {
+        "name": "ishuzoku reviewers"
+      },
+      "zh-CN": {
+        "name": "异种族风俗娘评鉴指南",
+        "intro": "《异种族风俗娘评鉴指南》（日语：异种族レビュアーズ；英语：Interspecies Reviewers）是由天原创作、masha作画的一部漫画，并有动画等衍生作品。"
+      }
+    },
+    "d-frag": {
+      "en-US": {
+        "name": "d-frag"
+      },
+      "zh-CN": {
+        "name": "属性同好会",
+        "intro": ""
+      }
+    },
+    "heavens memo pad": {
+      "en-US": {
+        "name": "heavens memo pad"
+      },
+      "zh-CN": {
+        "name": "神的记事本",
+        "intro": ""
+      }
+    },
+    "houkago play": {
+      "en-US": {
+        "name": "houkago play"
+      },
+      "zh-CN": {
+        "name": "放课后play",
+        "intro": ""
+      }
+    },
+    "ookiku furikabutte": {
+      "en-US": {
+        "name": "ookiku furikabutte"
+      },
+      "zh-CN": {
+        "name": "王牌投手 振臂高挥",
+        "intro": ""
+      }
+    },
+    "black bullet": {
+      "en-US": {
+        "name": "black bullet"
+      },
+      "zh-CN": {
+        "name": "漆黑的子弹",
+        "intro": ""
+      }
+    },
+    "mawaru penguindrum": {
+      "en-US": {
+        "name": "mawaru penguindrum"
+      },
+      "zh-CN": {
+        "name": "回转企鹅罐",
+        "intro": ""
+      }
+    },
+    "ben-to": {
+      "en-US": {
+        "name": "ben-to"
+      },
+      "zh-CN": {
+        "name": "便·当",
+        "intro": ""
+      }
+    },
+    "one week friends": {
+      "en-US": {
+        "name": "one week friends"
+      },
+      "zh-CN": {
+        "name": "一周的朋友",
+        "intro": ""
+      }
+    },
+    "sanoba witch": {
+      "en-US": {
+        "name": "sanoba witch"
+      },
+      "zh-CN": {
+        "name": "魔女的夜宴",
+        "intro": ""
+      }
+    },
+    "tonari no seki-kun": {
+      "en-US": {
+        "name": "tonari no seki-kun"
+      },
+      "zh-CN": {
+        "name": "上课小动作",
+        "intro": ""
+      }
+    },
+    "high score girl": {
+      "en-US": {
+        "name": "high score girl"
+      },
+      "zh-CN": {
+        "name": "高分少女",
+        "intro": ""
+      }
+    },
+    "claymore": {
+      "en-US": {
+        "name": "claymore"
+      },
+      "zh-CN": {
+        "name": "大剑",
+        "intro": ""
+      }
+    },
+    "sinoalice": {
+      "en-US": {
+        "name": "sinoalice"
+      },
+      "zh-CN": {
+        "name": "死亡爱丽丝",
+        "intro": "《死亡爱丽丝》（SINoALICE ーシノアリスー）是由Pokelabo开发、由Pokelabo与SQUARE ENIX共同运营的一款手机游戏。"
+      }
+    },
+    "machikado mazoku": {
+      "en-US": {
+        "name": "machikado mazoku"
+      },
+      "zh-CN": {
+        "name": "街角魔族",
+        "intro": ""
+      }
+    },
+    "the hunchback of notre dame": {
+      "en-US": {
+        "name": "the hunchback of notre dame"
+      },
+      "zh-CN": {
+        "name": "钟楼怪人",
+        "intro": "《钟楼怪人》（英语：The Hunchback of Notre Dame）是一部由华特迪士尼制作、于1996年首次上映的电脑动画电影。它的上映日期是1996年6月21日（香港则于同年7月4日上映），为第36部华特迪士尼经典动画长片。这部电影的原型是维克多·雨果的作品《巴黎圣母院》，虽然仍保有原作故事的基本架构，但是这部电影却改动了原作的大部分情节。其剧情重点放在一位吉普赛人舞者爱丝梅拉达、费比斯队长和加西莫多的三角恋上。其中加西莫多是主角，他在巴黎圣母院的钟楼中负责敲钟，长相虽然很丑陋却心地善良。"
+      }
     }
   },
   "character": {
@@ -62098,7 +62440,7 @@
       },
       "zh-CN": {
         "name": "平海",
-        "intro": ""
+        "intro": "手机游戏《碧蓝航线》及其衍生作品的登场角色。其原型本体是中华民国海军的平海号轻巡洋舰(Ping Hai)。"
       }
     },
     "ning hai": {
@@ -62107,7 +62449,7 @@
       },
       "zh-CN": {
         "name": "宁海",
-        "intro": ""
+        "intro": "手机游戏《碧蓝航线》及其衍生作品的登场角色。其原型本体是中华民国海军的宁海号轻巡洋舰。"
       }
     },
     "cygnet": {
@@ -79486,6 +79828,204 @@
       },
       "zh-CN": {
         "name": "美蓉",
+        "intro": ""
+      }
+    },
+    "formidable": {
+      "en-US": {
+        "name": "formidable"
+      },
+      "zh-CN": {
+        "name": "可畏",
+        "intro": "手机游戏《碧蓝航线》及其衍生作品的登场角色。其原型是同名的英国皇家海军的可畏号装甲航空母舰（HMS Formidable (67)） 。"
+      }
+    },
+    "admiral hipper": {
+      "en-US": {
+        "name": "admiral hipper"
+      },
+      "zh-CN": {
+        "name": "希佩尔海军上将",
+        "intro": "手机游戏《碧蓝航线》及其衍生作品的登场角色。其原型本体是纳粹德国海军的希佩尔海军上将号重巡洋舰（Admiral Hipper）。"
+      }
+    },
+    "portland": {
+      "en-US": {
+        "name": "portland"
+      },
+      "zh-CN": {
+        "name": "波特兰",
+        "intro": "手机游戏《碧蓝航线》及其衍生作品的登场角色。其原型本体是美国海军波特兰号重巡洋舰（ USS Portland (CA-33)）。"
+      }
+    },
+    "kama": {
+      "en-US": {
+        "name": "kama"
+      },
+      "zh-CN": {
+        "name": "迦摩",
+        "intro": "在TYPE-MOON推出的安卓&iOS游戏《Fate/Grand Order》中登场的Servant，职阶为Assassin。"
+      }
+    },
+    "yu miaoyi": {
+      "en-US": {
+        "name": "yu miaoyi"
+      },
+      "zh-CN": {
+        "name": "虞姬",
+        "intro": "在型月推出的安卓&iOS游戏《Fate/Grand Order》中登场的从者，职阶为Assassin。"
+      }
+    },
+    "beni-enma": {
+      "en-US": {
+        "name": "beni-enma"
+      },
+      "zh-CN": {
+        "name": "红阎魔",
+        "intro": "在TYPE-MOON推出的安卓&iOS游戏《Fate/Grand Order》中登场的Servant，职阶为Saber。"
+      }
+    },
+    "carmilla": {
+      "en-US": {
+        "name": "carmilla"
+      },
+      "zh-CN": {
+        "name": "卡米拉",
+        "intro": "在TYPE-MOON的游戏《Fate/Grand Order》中登场的女性Servant。职阶为Assassin"
+      }
+    },
+    "valkyrie": {
+      "en-US": {
+        "name": "valkyrie"
+      },
+      "zh-CN": {
+        "name": "瓦尔基里",
+        "intro": "瓦尔基里是TYPE-MOON推出的安卓&iOS游戏《Fate/Grand Order》中登场的Servant。职阶为Lancer。"
+      }
+    },
+    "chiyo shirayuki": {
+      "en-US": {
+        "name": "chiyo shirayuki"
+      },
+      "zh-CN": {
+        "name": "白雪千夜",
+        "intro": ""
+      }
+    },
+    "chitose kurosaki": {
+      "en-US": {
+        "name": "chitose kurosaki"
+      },
+      "zh-CN": {
+        "name": "黑埼千岁",
+        "intro": ""
+      }
+    },
+    "kiyomi saejima": {
+      "en-US": {
+        "name": "kiyomi saejima"
+      },
+      "zh-CN": {
+        "name": "冴岛清美",
+        "intro": ""
+      }
+    },
+    "cure milky": {
+      "en-US": {
+        "name": "cure milky"
+      },
+      "zh-CN": {
+        "name": "羽衣拉拉",
+        "intro": ""
+      }
+    },
+    "rinko iori": {
+      "en-US": {
+        "name": "rinko iori"
+      },
+      "zh-CN": {
+        "name": "伊织凛子",
+        "intro": ""
+      }
+    },
+    "sei iori": {
+      "en-US": {
+        "name": "sei iori"
+      },
+      "zh-CN": {
+        "name": "伊织诚",
+        "intro": ""
+      }
+    },
+    "bea": {
+      "en-US": {
+        "name": "bea"
+      },
+      "zh-CN": {
+        "name": "彩豆",
+        "intro": ""
+      }
+    },
+    "kudryavka noumi": {
+      "en-US": {
+        "name": "kudryavka noumi"
+      },
+      "zh-CN": {
+        "name": "能美库特莉亚芙卡",
+        "intro": ""
+      }
+    },
+    "yuuko shionji": {
+      "en-US": {
+        "name": "yuuko shionji"
+      },
+      "zh-CN": {
+        "name": "紫苑寺有子",
+        "intro": ""
+      }
+    },
+    "narumi fujishima": {
+      "en-US": {
+        "name": "narumi fujishima"
+      },
+      "zh-CN": {
+        "name": "藤岛鸣海",
+        "intro": ""
+      }
+    },
+    "sister cleaire": {
+      "en-US": {
+        "name": "sister cleaire"
+      },
+      "zh-CN": {
+        "name": "修女克蕾雅",
+        "intro": ""
+      }
+    },
+    "perth": {
+      "en-US": {
+        "name": "perth"
+      },
+      "zh-CN": {
+        "name": "珀斯",
+        "intro": ""
+      }
+    },
+    "momo chiyoda": {
+      "en-US": {
+        "name": "momo chiyoda"
+      },
+      "zh-CN": {
+        "name": "千代田桃",
+        "intro": ""
+      }
+    },
+    "yuko yoshida": {
+      "en-US": {
+        "name": "yuko yoshida"
+      },
+      "zh-CN": {
+        "name": "吉田优子",
         "intro": ""
       }
     }

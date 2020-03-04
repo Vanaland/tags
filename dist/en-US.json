@@ -28475,6 +28475,118 @@
     "namespace": "artist"
   },
   {
+    "name": "hiroya",
+    "intro": null,
+    "otherLanguage": [
+      "广弥"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "amamiya",
+    "intro": null,
+    "otherLanguage": [
+      "アマミヤ"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "nedia",
+    "intro": null,
+    "otherLanguage": [
+      "ねでぃあ"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "aiki",
+    "intro": null,
+    "otherLanguage": [
+      "Aiki"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "mumei",
+    "intro": null,
+    "otherLanguage": [
+      "Mumei"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "tefun",
+    "intro": null,
+    "otherLanguage": [
+      "てふん"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "shikoripa",
+    "intro": null,
+    "otherLanguage": [
+      "しこりぱ"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "tani takuya",
+    "intro": null,
+    "otherLanguage": [
+      "谷拓也"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "maron",
+    "intro": null,
+    "otherLanguage": [
+      "魔龙"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "yomoyama takashi",
+    "intro": null,
+    "otherLanguage": [
+      "四方山贵史"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "fuji tarawi",
+    "intro": null,
+    "otherLanguage": [
+      "藤たらゐ"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "mousou",
+    "intro": null,
+    "otherLanguage": [
+      "妄想"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "yokohama inka",
+    "intro": null,
+    "otherLanguage": [
+      "よこはまインカ"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "hoshi",
+    "intro": null,
+    "otherLanguage": [
+      "ほし"
+    ],
+    "namespace": "artist"
+  },
+  {
     "name": "clockup",
     "intro": null,
     "otherLanguage": [
@@ -41021,6 +41133,70 @@
     "namespace": "group"
   },
   {
+    "name": "shichimen soka",
+    "intro": null,
+    "otherLanguage": [
+      "七面楚歌"
+    ],
+    "namespace": "group"
+  },
+  {
+    "name": "shin nanka tou",
+    "intro": null,
+    "otherLanguage": [
+      "新なんか党"
+    ],
+    "namespace": "group"
+  },
+  {
+    "name": "tefutefu.",
+    "intro": null,
+    "otherLanguage": [
+      "てふてふ。"
+    ],
+    "namespace": "group"
+  },
+  {
+    "name": "menkui",
+    "intro": null,
+    "otherLanguage": [
+      "めんくい"
+    ],
+    "namespace": "group"
+  },
+  {
+    "name": "amamineko cafe",
+    "intro": null,
+    "otherLanguage": [
+      "あまみねこカフェ"
+    ],
+    "namespace": "group"
+  },
+  {
+    "name": "maron koubou",
+    "intro": null,
+    "otherLanguage": [
+      "マロン工房"
+    ],
+    "namespace": "group"
+  },
+  {
+    "name": "nekomonido",
+    "intro": null,
+    "otherLanguage": [
+      "ネコモニ堂"
+    ],
+    "namespace": "group"
+  },
+  {
+    "name": "nikuniku italian",
+    "intro": null,
+    "otherLanguage": [
+      "にくにくイタリアン"
+    ],
+    "namespace": "group"
+  },
+  {
     "name": "original",
     "intro": null,
     "otherLanguage": [
@@ -52031,6 +52207,134 @@
     "intro": null,
     "otherLanguage": [
       "邪神与厨二病少女"
+    ],
+    "namespace": "parody"
+  },
+  {
+    "name": "ishuzoku reviewers",
+    "intro": null,
+    "otherLanguage": [
+      "异种族风俗娘评鉴指南"
+    ],
+    "namespace": "parody"
+  },
+  {
+    "name": "d-frag",
+    "intro": null,
+    "otherLanguage": [
+      "属性同好会"
+    ],
+    "namespace": "parody"
+  },
+  {
+    "name": "heavens memo pad",
+    "intro": null,
+    "otherLanguage": [
+      "神的记事本"
+    ],
+    "namespace": "parody"
+  },
+  {
+    "name": "houkago play",
+    "intro": null,
+    "otherLanguage": [
+      "放课后play"
+    ],
+    "namespace": "parody"
+  },
+  {
+    "name": "ookiku furikabutte",
+    "intro": null,
+    "otherLanguage": [
+      "王牌投手 振臂高挥"
+    ],
+    "namespace": "parody"
+  },
+  {
+    "name": "black bullet",
+    "intro": null,
+    "otherLanguage": [
+      "漆黑的子弹"
+    ],
+    "namespace": "parody"
+  },
+  {
+    "name": "mawaru penguindrum",
+    "intro": null,
+    "otherLanguage": [
+      "回转企鹅罐"
+    ],
+    "namespace": "parody"
+  },
+  {
+    "name": "ben-to",
+    "intro": null,
+    "otherLanguage": [
+      "便·当"
+    ],
+    "namespace": "parody"
+  },
+  {
+    "name": "one week friends",
+    "intro": null,
+    "otherLanguage": [
+      "一周的朋友"
+    ],
+    "namespace": "parody"
+  },
+  {
+    "name": "sanoba witch",
+    "intro": null,
+    "otherLanguage": [
+      "魔女的夜宴"
+    ],
+    "namespace": "parody"
+  },
+  {
+    "name": "tonari no seki-kun",
+    "intro": null,
+    "otherLanguage": [
+      "上课小动作"
+    ],
+    "namespace": "parody"
+  },
+  {
+    "name": "high score girl",
+    "intro": null,
+    "otherLanguage": [
+      "高分少女"
+    ],
+    "namespace": "parody"
+  },
+  {
+    "name": "claymore",
+    "intro": null,
+    "otherLanguage": [
+      "大剑"
+    ],
+    "namespace": "parody"
+  },
+  {
+    "name": "sinoalice",
+    "intro": null,
+    "otherLanguage": [
+      "死亡爱丽丝"
+    ],
+    "namespace": "parody"
+  },
+  {
+    "name": "machikado mazoku",
+    "intro": null,
+    "otherLanguage": [
+      "街角魔族"
+    ],
+    "namespace": "parody"
+  },
+  {
+    "name": "the hunchback of notre dame",
+    "intro": null,
+    "otherLanguage": [
+      "钟楼怪人"
     ],
     "namespace": "parody"
   },
@@ -70575,6 +70879,182 @@
     "intro": null,
     "otherLanguage": [
       "美蓉"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "formidable",
+    "intro": null,
+    "otherLanguage": [
+      "可畏"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "admiral hipper",
+    "intro": null,
+    "otherLanguage": [
+      "希佩尔海军上将"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "portland",
+    "intro": null,
+    "otherLanguage": [
+      "波特兰"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "kama",
+    "intro": null,
+    "otherLanguage": [
+      "迦摩"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "yu miaoyi",
+    "intro": null,
+    "otherLanguage": [
+      "虞姬"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "beni-enma",
+    "intro": null,
+    "otherLanguage": [
+      "红阎魔"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "carmilla",
+    "intro": null,
+    "otherLanguage": [
+      "卡米拉"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "valkyrie",
+    "intro": null,
+    "otherLanguage": [
+      "瓦尔基里"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "chiyo shirayuki",
+    "intro": null,
+    "otherLanguage": [
+      "白雪千夜"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "chitose kurosaki",
+    "intro": null,
+    "otherLanguage": [
+      "黑埼千岁"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "kiyomi saejima",
+    "intro": null,
+    "otherLanguage": [
+      "冴岛清美"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "cure milky",
+    "intro": null,
+    "otherLanguage": [
+      "羽衣拉拉"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "rinko iori",
+    "intro": null,
+    "otherLanguage": [
+      "伊织凛子"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "sei iori",
+    "intro": null,
+    "otherLanguage": [
+      "伊织诚"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "bea",
+    "intro": null,
+    "otherLanguage": [
+      "彩豆"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "kudryavka noumi",
+    "intro": null,
+    "otherLanguage": [
+      "能美库特莉亚芙卡"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "yuuko shionji",
+    "intro": null,
+    "otherLanguage": [
+      "紫苑寺有子"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "narumi fujishima",
+    "intro": null,
+    "otherLanguage": [
+      "藤岛鸣海"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "sister cleaire",
+    "intro": null,
+    "otherLanguage": [
+      "修女克蕾雅"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "perth",
+    "intro": null,
+    "otherLanguage": [
+      "珀斯"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "momo chiyoda",
+    "intro": null,
+    "otherLanguage": [
+      "千代田桃"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "yuko yoshida",
+    "intro": null,
+    "otherLanguage": [
+      "吉田优子"
     ],
     "namespace": "character"
   },
