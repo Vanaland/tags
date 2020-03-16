@@ -1,17 +1,17 @@
 {
   "head": {
     "author": {
-      "name": "NanaTsubasa",
-      "email": "45740578+NanaTsubasa@users.noreply.github.com",
-      "when": "2020-03-03T22:21:31+00:00"
+      "name": "White-Clouds",
+      "email": "36442882+White-Clouds@users.noreply.github.com",
+      "when": "2020-03-15T14:31:13+00:00"
     },
     "committer": {
       "name": "EhTagApi-Bot",
       "email": "47353891+EhTagApi-Bot@users.noreply.github.com",
-      "when": "2020-03-03T22:21:31+00:00"
+      "when": "2020-03-15T14:31:13+00:00"
     },
-    "sha": "13e814e2ecca2070db701c91ef2bce5cf041c2de",
-    "message": "添加 artist: 'hoshi' - 'ほし'.\n\n|     | 原始标签 | 名称 | 描述 | 外部链接 |\n| --- | -------- | ---- | ---- | -------- |\n| 修改前 | | | | |\n| 修改后 | hoshi | ほし |  | [pixiv](https://www.pixiv.net/users/1198913)<br>[Twitter](https://twitter.com/hoshi_u3) |\n"
+    "sha": "72453da5fd6a578a80ec4929f40afa5bba540ec6",
+    "message": "添加 character: 'romio inuzuka' - '犬冢露壬雄'.\n\n|     | 原始标签 | 名称 | 描述 | 外部链接 |\n| --- | -------- | ---- | ---- | -------- |\n| 修改前 | | | | |\n| 修改后 | romio inuzuka | 犬冢露壬雄 |  |  |\n"
   },
   "version": 5,
   "repo": "https://github.com/EhTagTranslation/Database.git",
@@ -378,7 +378,7 @@
           "描述图片尽量出现尽可能多的主角，或者其他易于辨识的作品标志物。"
         ]
       },
-      "count": 1393,
+      "count": 1390,
       "data": {
         "original": {
           "name": "原创",
@@ -447,7 +447,7 @@
         },
         "kantai collection": {
           "name": "舰队Collection",
-          "intro": "",
+          "intro": "《舰队Collection》（艦隊これくしょん -艦これ-，又译舰队收藏）是由日本同人社团C2机关开发运营、角川集团投资、由DMM.com提供游戏平台的主要以旧日本海军舰船拟人为题材的收集养成卡牌赌博类网页游戏。",
           "links": "官网地址 萌娘百科"
         },
         "pokemon": {
@@ -735,11 +735,6 @@
           "intro": "",
           "links": ""
         },
-        "crossbone gundam": {
-          "name": "机动战士海盗高达",
-          "intro": "",
-          "links": ""
-        },
         "gundam build fighters": {
           "name": "高达创战者",
           "intro": "",
@@ -985,7 +980,7 @@
           "intro": "光之美少女系列的统称",
           "links": ""
         },
-        "pretty cure splash star": {
+        "futari wa precure splash star": {
           "name": "光之美少女Splash Star",
           "intro": "这系列太多了，我没看过根本不认识，随便搞个封面看吧",
           "links": ""
@@ -1262,13 +1257,8 @@
         },
         "fate extra": {
           "name": "Fate/EXTRA",
-          "intro": "",
-          "links": ""
-        },
-        "fate extella": {
-          "name": "Fate/EXTELLA",
-          "intro": "《Fate/EXTELLA》是由Marvelous制作发行的一款ACT游戏，于2016年11月10日登陆PS4/PSV，亚洲中韩文合版于2016年12月15日发售。并于2017年7月20日登陆Nintendo Switch，且内置索尼互动娱乐台湾中文化中心翻译的繁体中文语言。2017年7月26日，在Steam平台发售PC版，内置繁体中文语言，并开放DLC（皮肤）购买。",
-          "links": ""
+          "intro": "《Fate/EXTRA》（日语：フェイト/エクストラ）是由TYPE-MOON和IMAGEEPOCH开发，Marvelous Entertainment发售的一款角色扮演游戏。是根据TYPE-MOON的文字冒险游戏《Fate/stay night》改编而成的。其后推出本作后续作品《Fate/EXTRA CCC》、《Fate/EXTELLA》、《Fate/EXTELLA LINK》。",
+          "links": "维基百科"
         },
         "fate kaleid liner prisma illya": {
           "name": "Fate/kaleid liner 魔法少女☆伊莉雅",
@@ -1810,12 +1800,17 @@
           "intro": "",
           "links": ""
         },
-        "kamen rider w": {
-          "name": "假面骑士W",
+        "kamen rider drive": {
+          "name": "假面骑士Drive",
           "intro": "",
           "links": ""
         },
-        "kamen rider double": {
+        "kamen rider ex-aid": {
+          "name": "假面骑士EX-AID",
+          "intro": "",
+          "links": ""
+        },
+        "kamen rider w": {
           "name": "假面骑士W",
           "intro": "",
           "links": ""
@@ -1842,11 +1837,6 @@
         },
         "kamen rider ooo": {
           "name": "假面骑士OOO",
-          "intro": "",
-          "links": ""
-        },
-        "kamen rider 555": {
-          "name": "假面骑士555",
           "intro": "",
           "links": ""
         },
@@ -2380,13 +2370,18 @@
           "intro": "",
           "links": ""
         },
+        "macross 7": {
+          "name": "超时空要塞7",
+          "intro": "",
+          "links": ""
+        },
         "macross frontier": {
           "name": "超时空要塞F",
           "intro": "",
           "links": ""
         },
-        "macross 7": {
-          "name": "超时空要塞7",
+        "macross plus": {
+          "name": "超时空要塞Plus",
           "intro": "",
           "links": ""
         },
@@ -2395,8 +2390,8 @@
           "intro": "",
           "links": ""
         },
-        "macross zero": {
-          "name": "超时空要塞Zero",
+        "macross vf-x": {
+          "name": "超时空要塞VF-X",
           "intro": "",
           "links": ""
         },
@@ -4270,7 +4265,7 @@
           "intro": "",
           "links": ""
         },
-        "my daddy long legs": {
+        "watashi no ashinaga ojisan": {
           "name": "长腿叔叔",
           "intro": "",
           "links": ""
@@ -5330,11 +5325,6 @@
           "intro": "这部作品是由为「战场女武神」系列人设而闻名的同人画家RAITA绘制的漫画连载，内容上有类似「魔法少女小圆」的设定，情节上同样是以魔法少女为主题的系列作品。",
           "links": ""
         },
-        "honey select": {
-          "name": "Honey Select",
-          "intro": "",
-          "links": ""
-        },
         "namiuchigiwa no muromi-san": {
           "name": "人鱼又上钩",
           "intro": "《人鱼又上钩》（日语：波打際のむろみさん，直译：岸边的室见小姐）是名岛启二的日本漫画作品。在讲谈社的《周刊少年Magazine》2009年第8号至第12号上短期集中连载，并于同年的第33号开始正式连载。至2014年2月止共出版10集。中文版由东立出版社代理发行。",
@@ -5358,11 +5348,6 @@
         "kakegurui": {
           "name": "狂赌之渊",
           "intro": "《狂赌之渊》（日语：賭ケグルイ）是由河本ほむら原作、尚村透作画的一部漫画，并有动画等衍生作品。",
-          "links": ""
-        },
-        "legend": {
-          "name": "传奇",
-          "intro": "《传奇/金牌黑帮》（英语：Legend）是一部2015年英国犯罪惊悚片，为布莱恩·海格兰执导和编剧。",
           "links": ""
         },
         "hajimete no gal": {
@@ -6040,10 +6025,10 @@
           "intro": "《天使不设防！》（天使になるもんっ!）是日本电视动画，于1999年播出共26话，监督为锦织博。漫画全2集，原作为HEAVEN PROJECT，漫画由大野哲也所作，角川书店1999年出版。",
           "links": "维基百科 (*)"
         },
-        "collapse gakuen": {
+        "honkai gakuen": {
           "name": "崩坏学园",
           "intro": "",
-          "links": ""
+          "links": "维基百科"
         },
         "makai tenshi jibril": {
           "name": "魔界天使吉普莉露",
@@ -6315,11 +6300,6 @@
           "intro": "",
           "links": "维基百科（日语）"
         },
-        "shining": {
-          "name": "光明",
-          "intro": "光明（日语：シャイニング，英语：Shining，港台译作“光明与黑暗”）是SEGA所制作的一系列游戏。",
-          "links": "维基百科 (*)"
-        },
         "shining in the darkness": {
           "name": "光明与黑暗",
           "intro": "《光明与黑暗》（日语：シャイニング&ザ・ダクネス，英语：Shining and the Darkness），是1991年Mega Drive游戏平台上的角色扮演游戏。它是Mega Drive平台上发布的第一个角色扮演游戏，并且也是光明系列的首作，该系列跨越世嘉四代游戏平台，以及Game Boy Advance 和PlayStation 2。",
@@ -6339,6 +6319,11 @@
           "name": "光明力量 羽翼",
           "intro": "",
           "links": "维基百科（英语）"
+        },
+        "shining soul": {
+          "name": "光明之魂",
+          "intro": "",
+          "links": ""
         },
         "shining tears": {
           "name": "光明之泪",
@@ -6530,11 +6515,6 @@
           "intro": "《妖精剑士f》（日语：フェアリーフェンサー エフ，英语：Fairy Fencer F）是Compile Heart旗下电子角色扮演游戏品牌“Galapagos”的第一款作品，最初于2013年发售。邪神设计由天野喜孝负责，女神设计由平野克幸负责，角色设计由つなこ负责。",
           "links": "维基百科 (*)"
         },
-        "honkai gakuen": {
-          "name": "崩坏学园",
-          "intro": "",
-          "links": "维基百科"
-        },
         "quiz magic academy": {
           "name": "问答魔法学院",
           "intro": "《问答魔法学院》（日语：クイズマジックアカデミー，英语：QUIZ MAGIC ACADEMY；简称：QMA与マジアカ）是日本科乐美数位娱乐所开发的问答游戏街机游戏平台系列，以及依此改编的OVA以及漫画。",
@@ -6699,11 +6679,6 @@
           "name": "四叶妹妹！",
           "intro": "《四叶妹妹！》（日语：よつばと!）是东清彦的日本漫画作品，于2003年3月在漫画杂志《月刊Comic电击大王》上连载。到2018年4月28日为止，单行本目前发行了14本。台湾角川已出版13册。",
           "links": "维基百科 (*)"
-        },
-        "kemomimi oukoku kokuei housou": {
-          "name": "兽耳王国国营放送",
-          "intro": "Nekomasu（日语：ねこます），全称猫耳Master(日语：ねこみみマスター)。其个人频道“兽耳王国国营放送”(日语：けもみみおーこく国営放送)内容以萝莉形象、大叔声音的反差萌为特点，截至2018年1月29日已有22万订阅。",
-          "links": "萌娘百科 (**)"
         },
         "dragon nest": {
           "name": "龙之谷",
@@ -7344,6 +7319,16 @@
           "name": "钟楼怪人",
           "intro": "《钟楼怪人》（英语：The Hunchback of Notre Dame）是一部由华特迪士尼制作、于1996年首次上映的电脑动画电影。它的上映日期是1996年6月21日（香港则于同年7月4日上映），为第36部华特迪士尼经典动画长片。这部电影的原型是维克多·雨果的作品《巴黎圣母院》，虽然仍保有原作故事的基本架构，但是这部电影却改动了原作的大部分情节。其剧情重点放在一位吉普赛人舞者爱丝梅拉达、费比斯队长和加西莫多的三角恋上。其中加西莫多是主角，他在巴黎圣母院的钟楼中负责敲钟，长相虽然很丑陋却心地善良。",
           "links": "维基百科 (*)"
+        },
+        "kodoku no gourmet": {
+          "name": "孤独的美食家",
+          "intro": "",
+          "links": ""
+        },
+        "kishuku gakkou no juliet": {
+          "name": "寄宿学校的朱丽叶",
+          "intro": "《寄宿学校的朱丽叶》（日语：寄宿学校のジュリエット）为漫画家金田阳介所作的日本少年漫画，是以威廉·莎士比亚的戏剧作品《罗密欧与茱丽叶》为蓝本改编的作品。",
+          "links": "寄宿学校的茱丽叶 - Wikipedia\n寄宿学校的朱丽叶 - 萌娘百科"
         }
       }
     },
@@ -7359,7 +7344,7 @@
           "第一推荐萌娘百科，也可以用百度百科或维基百科查译名。"
         ]
       },
-      "count": 2340,
+      "count": 2313,
       "data": {
         "alice": {
           "name": "爱丽丝",
@@ -11611,11 +11596,6 @@
           "intro": "",
           "links": ""
         },
-        "kobayashi": {
-          "name": "小林",
-          "intro": "",
-          "links": ""
-        },
         "ai-chan": {
           "name": "小爱",
           "intro": "",
@@ -12041,7 +12021,7 @@
           "intro": "",
           "links": ""
         },
-        "ayako fujisaki": {
+        "aya fujisaki": {
           "name": "藤崎绫",
           "intro": "",
           "links": ""
@@ -12103,6 +12083,11 @@
         },
         "kyouko kirisaki": {
           "name": "雾崎恭子",
+          "intro": "",
+          "links": ""
+        },
+        "kenichi saruyama": {
+          "name": "猿山健一",
           "intro": "",
           "links": ""
         },
@@ -13801,7 +13786,7 @@
           "intro": "",
           "links": ""
         },
-        "bulma": {
+        "bulma briefs": {
           "name": "布尔玛",
           "intro": "",
           "links": ""
@@ -13858,11 +13843,6 @@
         },
         "trunks briefs": {
           "name": "特兰克斯",
-          "intro": "",
-          "links": ""
-        },
-        "bulma briefs": {
-          "name": "布尔玛",
           "intro": "",
           "links": ""
         },
@@ -14526,7 +14506,7 @@
           "intro": "",
           "links": ""
         },
-        "meltlilith": {
+        "meltryllis": {
           "name": "溶解莉莉丝",
           "intro": "",
           "links": ""
@@ -14706,7 +14686,7 @@
           "intro": "",
           "links": ""
         },
-        "kuro von einzbern": {
+        "chloe von einzbern": {
           "name": "克洛伊·冯·爱因兹贝伦",
           "intro": "小黑，伊莉雅身上分裂并实体化的人格",
           "links": ""
@@ -14881,7 +14861,7 @@
           "intro": "",
           "links": ""
         },
-        "oda nobunaga": {
+        "nobunaga oda": {
           "name": "织田信长",
           "intro": "",
           "links": ""
@@ -15504,7 +15484,7 @@
         "sylphynford tachibana": {
           "name": "橘·希尔芬福特",
           "intro": "",
-          "links": "萌娘百科 |"
+          "links": "萌娘百科"
         },
         "takeshi motoba": {
           "name": "本场猛（崩巴）",
@@ -15601,18 +15581,8 @@
           "intro": "",
           "links": ""
         },
-        "nagisa misumi": {
-          "name": "美墨渚",
-          "intro": "",
-          "links": ""
-        },
         "cure black": {
           "name": "黑天使",
-          "intro": "",
-          "links": ""
-        },
-        "honoka yukishiro": {
-          "name": "雪城穗乃香",
           "intro": "",
           "links": ""
         },
@@ -15621,18 +15591,8 @@
           "intro": "",
           "links": ""
         },
-        "hikari kujou": {
-          "name": "九条光",
-          "intro": "",
-          "links": ""
-        },
         "shiny luminous": {
           "name": "夏妮露米纳丝",
-          "intro": "",
-          "links": ""
-        },
-        "saki hyuuga": {
-          "name": "日向咲",
           "intro": "",
           "links": ""
         },
@@ -15641,23 +15601,8 @@
           "intro": "",
           "links": ""
         },
-        "cure bright": {
-          "name": "月天使",
-          "intro": "",
-          "links": ""
-        },
-        "mai mishou": {
-          "name": "美翔舞",
-          "intro": "",
-          "links": ""
-        },
         "cure egret": {
           "name": "舞天使",
-          "intro": "",
-          "links": ""
-        },
-        "cure windy": {
-          "name": "风天使",
           "intro": "",
           "links": ""
         },
@@ -15671,18 +15616,8 @@
           "intro": "",
           "links": ""
         },
-        "nozomi yumehara": {
-          "name": "梦原希",
-          "intro": "",
-          "links": ""
-        },
         "cure dream": {
           "name": "梦天使",
-          "intro": "",
-          "links": ""
-        },
-        "rin natsuki": {
-          "name": "夏木玲",
           "intro": "",
           "links": ""
         },
@@ -15691,18 +15626,8 @@
           "intro": "",
           "links": ""
         },
-        "urara kasugano": {
-          "name": "春日野丽",
-          "intro": "",
-          "links": ""
-        },
         "cure lemonade": {
           "name": "柠檬天使",
-          "intro": "",
-          "links": ""
-        },
-        "komachi akimoto": {
-          "name": "秋元小町",
           "intro": "",
           "links": ""
         },
@@ -15711,18 +15636,8 @@
           "intro": "",
           "links": ""
         },
-        "karen minazuki": {
-          "name": "水无月香恋",
-          "intro": "",
-          "links": ""
-        },
         "cure aqua": {
           "name": "水天使",
-          "intro": "",
-          "links": ""
-        },
-        "kurumi mimino": {
-          "name": "美美野来未",
           "intro": "",
           "links": ""
         },
@@ -15731,28 +15646,13 @@
           "intro": "",
           "links": ""
         },
-        "love momozono": {
-          "name": "桃园爱",
-          "intro": "",
-          "links": ""
-        },
         "cure peach": {
           "name": "桃天使",
           "intro": "",
           "links": ""
         },
-        "miki aono": {
-          "name": "苍乃美希",
-          "intro": "",
-          "links": ""
-        },
         "cure berry": {
           "name": "莓天使",
-          "intro": "",
-          "links": ""
-        },
-        "inori yamabuki": {
-          "name": "山吹祈里",
           "intro": "",
           "links": ""
         },
@@ -15766,18 +15666,8 @@
           "intro": "",
           "links": ""
         },
-        "setsuna higashi": {
-          "name": "东刹那",
-          "intro": "",
-          "links": ""
-        },
         "cure passion": {
           "name": "百香果天使",
-          "intro": "",
-          "links": ""
-        },
-        "tsubomi hanasaki": {
-          "name": "花咲蕾",
           "intro": "",
           "links": ""
         },
@@ -15786,28 +15676,13 @@
           "intro": "",
           "links": ""
         },
-        "erika kurumi": {
-          "name": "来海绘里香",
-          "intro": "",
-          "links": ""
-        },
         "cure marine": {
           "name": "海洋天使",
           "intro": "",
           "links": ""
         },
-        "itsuki myoudouin": {
-          "name": "明堂院树",
-          "intro": "",
-          "links": ""
-        },
         "cure sunshine": {
           "name": "阳光天使",
-          "intro": "",
-          "links": ""
-        },
-        "yuri tsukikage": {
-          "name": "月影百合",
           "intro": "",
           "links": ""
         },
@@ -15876,18 +15751,8 @@
           "intro": "",
           "links": ""
         },
-        "hibiki houjou": {
-          "name": "北条响",
-          "intro": "",
-          "links": ""
-        },
         "cure melody": {
           "name": "旋律天使",
-          "intro": "",
-          "links": ""
-        },
-        "kanade minamino": {
-          "name": "南野奏",
           "intro": "",
           "links": ""
         },
@@ -15901,18 +15766,8 @@
           "intro": "",
           "links": ""
         },
-        "ellen kurokawa": {
-          "name": "黑川艾莲",
-          "intro": "",
-          "links": ""
-        },
         "cure beat": {
           "name": "节拍天使",
-          "intro": "",
-          "links": ""
-        },
-        "ako shirabe": {
-          "name": "调边亚子",
           "intro": "",
           "links": ""
         },
@@ -15931,11 +15786,6 @@
           "intro": "",
           "links": ""
         },
-        "miyuki hoshizora": {
-          "name": "星空美幸",
-          "intro": "",
-          "links": ""
-        },
         "cure happy": {
           "name": "快乐天使",
           "intro": "",
@@ -15946,28 +15796,13 @@
           "intro": "",
           "links": ""
         },
-        "yayoi kise": {
-          "name": "黄濑弥生",
-          "intro": "",
-          "links": ""
-        },
         "cure peace": {
           "name": "和平天使",
           "intro": "",
           "links": ""
         },
-        "nao midorikawa": {
-          "name": "绿川直",
-          "intro": "",
-          "links": ""
-        },
         "cure march": {
           "name": "旋风天使",
-          "intro": "",
-          "links": ""
-        },
-        "reika aoki": {
-          "name": "青木丽华",
           "intro": "",
           "links": ""
         },
@@ -16036,18 +15871,8 @@
           "intro": "",
           "links": ""
         },
-        "mana aida": {
-          "name": "相田爱",
-          "intro": "",
-          "links": ""
-        },
         "cure heart": {
           "name": "爱心天使",
-          "intro": "",
-          "links": ""
-        },
-        "rikka hishikawa": {
-          "name": "菱川六花",
           "intro": "",
           "links": ""
         },
@@ -16056,28 +15881,13 @@
           "intro": "",
           "links": ""
         },
-        "alice yotsuba": {
-          "name": "四叶爱丽丝",
-          "intro": "",
-          "links": ""
-        },
         "cure rosetta": {
           "name": "幸运草天使",
           "intro": "",
           "links": ""
         },
-        "makoto kenzaki": {
-          "name": "剑崎真琴",
-          "intro": "",
-          "links": ""
-        },
         "cure sword": {
           "name": "圣剑天使",
-          "intro": "",
-          "links": ""
-        },
-        "aguri madoka": {
-          "name": "圆亚久里",
           "intro": "",
           "links": ""
         },
@@ -16096,18 +15906,8 @@
           "intro": "",
           "links": ""
         },
-        "megumi aino": {
-          "name": "爱乃惠",
-          "intro": "",
-          "links": ""
-        },
         "cure lovely": {
           "name": "可爱天使",
-          "intro": "",
-          "links": ""
-        },
-        "hime shirayuki": {
-          "name": "白雪姬",
           "intro": "",
           "links": ""
         },
@@ -16116,18 +15916,8 @@
           "intro": "",
           "links": ""
         },
-        "yuko omori": {
-          "name": "大森悠子",
-          "intro": "",
-          "links": ""
-        },
         "cure honey": {
           "name": "蜂蜜天使",
-          "intro": "",
-          "links": ""
-        },
-        "iona hikawa": {
-          "name": "冰川伊绪奈",
           "intro": "",
           "links": ""
         },
@@ -16141,28 +15931,13 @@
           "intro": "",
           "links": ""
         },
-        "haruka haruno": {
-          "name": "春野遥",
-          "intro": "",
-          "links": ""
-        },
         "cure flora": {
           "name": "花神天使",
           "intro": "",
           "links": ""
         },
-        "minami kaidou": {
-          "name": "海藤南",
-          "intro": "",
-          "links": ""
-        },
         "cure mermaid": {
           "name": "人鱼天使",
-          "intro": "",
-          "links": ""
-        },
-        "kirara amanogawa": {
-          "name": "天之川绮罗",
           "intro": "",
           "links": ""
         },
@@ -16181,18 +15956,8 @@
           "intro": "",
           "links": ""
         },
-        "mirai asahina": {
-          "name": "朝日奈未来",
-          "intro": "",
-          "links": ""
-        },
         "cure miracle": {
           "name": "奇迹天使",
-          "intro": "",
-          "links": ""
-        },
-        "riko izayoi": {
-          "name": "十六夜理子",
           "intro": "",
           "links": ""
         },
@@ -16201,18 +15966,8 @@
           "intro": "",
           "links": ""
         },
-        "kotoha hanami": {
-          "name": "花海言叶",
-          "intro": "",
-          "links": ""
-        },
         "cure felice": {
           "name": "幸福天使",
-          "intro": "",
-          "links": ""
-        },
-        "ichika usami": {
-          "name": "宇佐美一花",
           "intro": "",
           "links": ""
         },
@@ -16221,18 +15976,8 @@
           "intro": "",
           "links": ""
         },
-        "himari arisugawa": {
-          "name": "有栖川阳莉",
-          "intro": "",
-          "links": ""
-        },
         "cure custard": {
           "name": "奶黄天使",
-          "intro": "",
-          "links": ""
-        },
-        "aoi tategami": {
-          "name": "立神葵",
           "intro": "",
           "links": ""
         },
@@ -16241,28 +15986,13 @@
           "intro": "",
           "links": ""
         },
-        "yukari kotozume": {
-          "name": "琴爪缘",
-          "intro": "",
-          "links": ""
-        },
         "cure macaron": {
           "name": "马卡龙天使",
           "intro": "",
           "links": ""
         },
-        "akira kenjou": {
-          "name": "剑城晶",
-          "intro": "",
-          "links": ""
-        },
         "cure chocolat": {
           "name": "巧克力天使",
-          "intro": "",
-          "links": ""
-        },
-        "ciel kirahoshi": {
-          "name": "绮罗星夏尔",
           "intro": "",
           "links": ""
         },
@@ -16383,31 +16113,6 @@
         },
         "yotsugi ononoki": {
           "name": "斧乃木余接",
-          "intro": "",
-          "links": ""
-        },
-        "hana nono": {
-          "name": "野乃花",
-          "intro": "",
-          "links": ""
-        },
-        "homare kagayaki": {
-          "name": "辉木誉",
-          "intro": "",
-          "links": ""
-        },
-        "saaya yakushiji": {
-          "name": "药师寺纱绫",
-          "intro": "",
-          "links": ""
-        },
-        "ruru amour": {
-          "name": "露露·艾莫尔",
-          "intro": "",
-          "links": ""
-        },
-        "emiru aisaki": {
-          "name": "爱崎惠美瑠",
           "intro": "",
           "links": ""
         },
@@ -16736,114 +16441,59 @@
           "intro": "",
           "links": ""
         },
-        "mamoru chiba": {
-          "name": "地场卫",
-          "intro": "",
-          "links": ""
-        },
         "tuxedo mask": {
           "name": "大礼服假面",
-          "intro": "",
-          "links": ""
-        },
-        "usagi tsukino": {
-          "name": "月野兔",
-          "intro": "",
+          "intro": "地场卫",
           "links": ""
         },
         "sailor moon": {
           "name": "水手月亮",
-          "intro": "",
-          "links": ""
-        },
-        "chibiusa": {
-          "name": "小小兔",
-          "intro": "",
+          "intro": "月野兔",
           "links": ""
         },
         "sailor chibi moon": {
           "name": "水手小月亮",
-          "intro": "",
-          "links": ""
-        },
-        "ami mizuno": {
-          "name": "水野亚美",
-          "intro": "",
+          "intro": "小小兔",
           "links": ""
         },
         "sailor mercury": {
           "name": "水手水星",
-          "intro": "",
-          "links": ""
-        },
-        "rei hino": {
-          "name": "火野丽",
-          "intro": "",
+          "intro": "水野亚美",
           "links": ""
         },
         "sailor mars": {
           "name": "水手火星",
-          "intro": "",
-          "links": ""
-        },
-        "makoto kino": {
-          "name": "木野真琴",
-          "intro": "",
+          "intro": "火野丽",
           "links": ""
         },
         "sailor jupiter": {
           "name": "水手木星",
-          "intro": "",
-          "links": ""
-        },
-        "minako aino": {
-          "name": "爱野美奈子",
-          "intro": "",
+          "intro": "木野真琴",
           "links": ""
         },
         "sailor venus": {
           "name": "水手金星",
-          "intro": "",
-          "links": ""
-        },
-        "hotaru tomoe": {
-          "name": "土萌萤",
-          "intro": "",
+          "intro": "爱野美奈子",
           "links": ""
         },
         "sailor saturn": {
           "name": "水手土星",
-          "intro": "",
-          "links": ""
-        },
-        "michiru kaioh": {
-          "name": "海王满",
-          "intro": "",
+          "intro": "土萌萤",
           "links": ""
         },
         "sailor neptune": {
           "name": "水手海王星",
-          "intro": "",
-          "links": ""
-        },
-        "haruka tenoh": {
-          "name": "天王遥",
-          "intro": "",
+          "intro": "海王满",
           "links": ""
         },
         "sailor uranus": {
           "name": "水手天王星",
-          "intro": "",
-          "links": ""
-        },
-        "setsuna meioh": {
-          "name": "冥王雪奈",
-          "intro": "",
+          "intro": "天王遥",
           "links": ""
         },
         "sailor pluto": {
           "name": "水手冥王星",
-          "intro": "",
+          "intro": "冥王雪奈",
           "links": ""
         },
         "kenji tsukino": {
@@ -17455,6 +17105,11 @@
           "name": "Mirai Akari",
           "intro": "",
           "links": ""
+        },
+        "nojaoji": {
+          "name": "Mikoko",
+          "intro": "Mikoko（日语：みここ）是Nekomasu作为虚拟YouTuber活动时的主要形象。形象为双马尾萝莉狐娘。在使用此形象时，Nekomasu自称虚拟口癖萝莉狐娘YouTuber大叔（バーチャルのじゃロリ狐娘Youtuberおじさん，简称のじゃおじ），并在句尾附上のじゃ的口癖。",
+          "links": "萌娘百科"
         },
         "kira yamato": {
           "name": "基拉·大和",
@@ -18926,11 +18581,6 @@
           "intro": "赫萝是《狼与香辛料》的女主角",
           "links": "萌娘百科"
         },
-        "chloe von einzbern": {
-          "name": "克洛伊·冯·爱因兹贝伦",
-          "intro": "",
-          "links": ""
-        },
         "marie rose": {
           "name": "玛丽·萝丝",
           "intro": "玛丽·萝丝（Marie Rose，又译萝丝·玛丽）是日本游戏公司KOEI TECMO GAMES在PS3,PS4,XBOX 360,XBOX ONE,XBOX ONE S,PC平台上开发的游戏《死或生》（又译《生死格斗》）的第五代中的可选操作角色。",
@@ -19060,6 +18710,206 @@
           "name": "吉田优子",
           "intro": "",
           "links": ""
+        },
+        "reines el-melloi archisorte": {
+          "name": "莱妮丝·埃尔梅罗·阿奇佐尔缇",
+          "intro": "",
+          "links": ""
+        },
+        "rindou mikoto": {
+          "name": "龙胆尊",
+          "intro": "",
+          "links": ""
+        },
+        "hotaru ichijou": {
+          "name": "一条萤",
+          "intro": "",
+          "links": ""
+        },
+        "komari koshigaya": {
+          "name": "越谷小鞠",
+          "intro": "",
+          "links": ""
+        },
+        "renown": {
+          "name": "声望",
+          "intro": "",
+          "links": ""
+        },
+        "maria balthasar": {
+          "name": "玛利亚·巴尔塔札尔",
+          "intro": "",
+          "links": ""
+        },
+        "emeralda kasim": {
+          "name": "艾美拉达·卡西姆",
+          "intro": "",
+          "links": ""
+        },
+        "ai hinatsuru": {
+          "name": "雏鹤爱",
+          "intro": "",
+          "links": ""
+        },
+        "ginko sora": {
+          "name": "空银子",
+          "intro": "",
+          "links": ""
+        },
+        "chariot": {
+          "name": "战轮妖精",
+          "intro": "",
+          "links": ""
+        },
+        "strength": {
+          "name": "力量",
+          "intro": "",
+          "links": ""
+        },
+        "chang chun": {
+          "name": "长春",
+          "intro": "",
+          "links": ""
+        },
+        "kirika akatsuki": {
+          "name": "晓切歌",
+          "intro": "",
+          "links": ""
+        },
+        "asuha chigusa": {
+          "name": "千种明日叶",
+          "intro": "",
+          "links": ""
+        },
+        "kasumi chigusa": {
+          "name": "千种霞",
+          "intro": "",
+          "links": ""
+        },
+        "ange katrina": {
+          "name": "安洁·卡特莉娜",
+          "intro": "",
+          "links": ""
+        },
+        "cagliostro": {
+          "name": "卡莉奥斯特萝",
+          "intro": "",
+          "links": ""
+        },
+        "kyouka hikawa": {
+          "name": "冰川镜华",
+          "intro": "",
+          "links": ""
+        },
+        "retoree": {
+          "name": "莱托莉",
+          "intro": "",
+          "links": ""
+        },
+        "cyan hijirikawa": {
+          "name": "希安（圣川诗杏）",
+          "intro": "",
+          "links": ""
+        },
+        "saren sasaki": {
+          "name": "佐佐木咲恋",
+          "intro": "",
+          "links": ""
+        },
+        "niyon": {
+          "name": "妮欧",
+          "intro": "",
+          "links": ""
+        },
+        "yuel": {
+          "name": "尤艾尔",
+          "intro": "",
+          "links": ""
+        },
+        "societte": {
+          "name": "苏丝雅",
+          "intro": "",
+          "links": ""
+        },
+        "kanau kongou": {
+          "name": "金刚叶",
+          "intro": "",
+          "links": ""
+        },
+        "yuuko aioi": {
+          "name": "相生祐子",
+          "intro": "",
+          "links": ""
+        },
+        "mio naganohara": {
+          "name": "长野原美绪",
+          "intro": "",
+          "links": ""
+        },
+        "mai minakami": {
+          "name": "水上麻衣",
+          "intro": "",
+          "links": ""
+        },
+        "nano shinonome": {
+          "name": "东云名乃",
+          "intro": "",
+          "links": ""
+        },
+        "hakase shinonome": {
+          "name": "东云博士",
+          "intro": "",
+          "links": ""
+        },
+        "kobayashi": {
+          "name": "小林",
+          "intro": "",
+          "links": ""
+        },
+        "ririchiyo shirakiin": {
+          "name": "白鬼院凛凛蝶",
+          "intro": "",
+          "links": ""
+        },
+        "sana inui": {
+          "name": "乾纱凪",
+          "intro": "",
+          "links": ""
+        },
+        "gotland": {
+          "name": "哥特兰",
+          "intro": "",
+          "links": ""
+        },
+        "nanachi": {
+          "name": "娜娜奇",
+          "intro": "香喷喷毛茸茸的娜娜奇。出自来自深渊（Made in Abyss)",
+          "links": ""
+        },
+        "grecale": {
+          "name": "东北风",
+          "intro": "",
+          "links": ""
+        },
+        "nursery rhyme": {
+          "name": "童谣",
+          "intro": "",
+          "links": ""
+        },
+        "hasuki komai": {
+          "name": "狛井莲季",
+          "intro": "狛井莲季是由金田阳介所创作的漫画《寄宿学校的朱丽叶》及其衍生作品的登场角色。黑犬公寓高等部二年级生，黑犬公寓监督生副长兼会计。 犬冢的青梅竹马，喜欢犬冢露壬雄，为了代替被赶下队长职位的战犯犬冢，由莲季担任一年级队长。 虽然得知犬冢喜欢朱丽叶·佩尔西亚并且在交往，不过并没有告诉其他人，但是却仍然喜欢着他。 戴上眼镜的时候性格会如同变了一个人，一个非常严厉的“教师”！ 最终话在自己决定的梦想以及拉格多尔的帮助下，成为了一名演员！",
+          "links": "狛井莲季 - 萌娘百科"
+        },
+        "juliet persia": {
+          "name": "朱丽叶·佩尔西亚",
+          "intro": "漫画作品《寄宿学校的朱丽叶》的女主角，达利亚学园高中部学生，白猫宿舍本人所在年级的领导者。\n朱丽叶是威斯特公国贵族的独生女，因当时社会认定家族继承人只能由男性担任而从小磨练自己，背负了巨大压力，也因此希望改变世界法则。\n和犬冢露壬雄是从小到大的对手，喜欢犬冢露壬雄，在接受对方的告白后经常在他面前露出娇羞的表情。性格温柔，气质优雅，心地善良，平时威风凛凛，然而一见到露壬雄就……",
+          "links": "朱丽叶·佩尔西亚 - 萌娘百科"
+        },
+        "romio inuzuka": {
+          "name": "犬冢露壬雄",
+          "intro": "",
+          "links": ""
         }
       }
     },
@@ -19075,7 +18925,7 @@
           "日文名中有汉字者优先写含汉字的名称。"
         ]
       },
-      "count": 1581,
+      "count": 1580,
       "data": {
         "clockup": {
           "name": "CLOCKUP",
@@ -19497,8 +19347,13 @@
           "intro": "",
           "links": ""
         },
-        "atelier sakura": {
-          "name": "樱花工作室",
+        "atelier sakura roshutsu yuugi": {
+          "name": "樱花工作室 露出＊游戏",
+          "intro": "",
+          "links": ""
+        },
+        "atelier sakura konmai studio": {
+          "name": "樱花工作室 こんまいすたじお",
           "intro": "",
           "links": ""
         },
@@ -19537,7 +19392,7 @@
           "intro": "",
           "links": ""
         },
-        "5pb.": {
+        "5pb": {
           "name": "5pb.",
           "intro": "",
           "links": ""
@@ -19572,11 +19427,6 @@
           "intro": "",
           "links": ""
         },
-        "illusion": {
-          "name": "ILLUSION",
-          "intro": "ILLUSION，俗称一路撸神，是日本的十八禁 3D 游戏制作公司。",
-          "links": ""
-        },
         "falcom": {
           "name": "Falcom",
           "intro": "日本Falcom股份有限公司（日语：日本ファルコム株式会社；英语：Nihon Falcom Corporation）是主要开发及贩售电脑游戏软体的日本公司，其代表作品有《Dragon Slayer系列》、《伊苏系列》和《英雄传说系列》等。",
@@ -19596,11 +19446,6 @@
           "name": "KADOKAWA",
           "intro": "KADOKAWA公司（日语：株式会社KADOKAWA；英语：KADOKAWA CORPORATION）是一家日本出版公司，为角川多玩国的子公司，也是KADOKAWA集团的核心，拥有包含角川书店在内的诸多品牌。",
           "links": "维基百科 官方网站 (*)"
-        },
-        "sex syndrome": {
-          "name": "Sex Syndrome",
-          "intro": "",
-          "links": ""
         },
         "electromagneticwave": {
           "name": "ElectromagneticWave",
@@ -20422,8 +20267,8 @@
           "intro": "",
           "links": ""
         },
-        "koguroya.": {
-          "name": "こぐろ屋。",
+        "kohagura.": {
+          "name": "こはぐら。（こぐろ屋。）",
           "intro": "",
           "links": ""
         },
@@ -20912,11 +20757,6 @@
           "intro": "",
           "links": ""
         },
-        "rpg company": {
-          "name": "RPGカンパニー",
-          "intro": "",
-          "links": ""
-        },
         "royal bitch": {
           "name": "ろいやるびっち",
           "intro": "",
@@ -20934,11 +20774,6 @@
         },
         "almarosso": {
           "name": "アルマロッソ",
-          "intro": "",
-          "links": ""
-        },
-        "sin": {
-          "name": "Sin",
           "intro": "",
           "links": ""
         },
@@ -21312,11 +21147,6 @@
           "intro": "",
           "links": ""
         },
-        "kakuzatouichi": {
-          "name": "核座头市",
-          "intro": "",
-          "links": ""
-        },
         "kaminagi-tei": {
           "name": "神凪邸",
           "intro": "",
@@ -21359,11 +21189,6 @@
         },
         "ncp": {
           "name": "NCP",
-          "intro": "",
-          "links": ""
-        },
-        "yousai kyoushitsu": {
-          "name": "幼妻教室",
           "intro": "",
           "links": ""
         },
@@ -21437,7 +21262,7 @@
           "intro": "",
           "links": ""
         },
-        "sottile nero": {
+        "sottilo nero": {
           "name": "ソッティーロネーロ",
           "intro": "",
           "links": ""
@@ -21569,11 +21394,6 @@
         },
         "tohgoo": {
           "name": "冬宫",
-          "intro": "",
-          "links": ""
-        },
-        "takanaruya.": {
-          "name": "高鳴る屋。",
           "intro": "",
           "links": ""
         },
@@ -22247,7 +22067,7 @@
           "intro": "",
           "links": ""
         },
-        "neko jarasa re": {
+        "nekojarasare": {
           "name": "猫じゃらされ",
           "intro": "",
           "links": ""
@@ -22532,8 +22352,8 @@
           "intro": "",
           "links": ""
         },
-        "wickedheart": {
-          "name": "WICKEDHEART",
+        "wicked heart": {
+          "name": "WICKED HEART",
           "intro": "",
           "links": ""
         },
@@ -23172,7 +22992,7 @@
           "intro": "",
           "links": ""
         },
-        "nibo niboshi": {
+        "niboniboshi": {
           "name": "にぼ煮干",
           "intro": "",
           "links": ""
@@ -23732,11 +23552,6 @@
           "intro": "",
           "links": ""
         },
-        "whistlerx": {
-          "name": "WhistlerX",
-          "intro": "",
-          "links": ""
-        },
         "egyptsobaya": {
           "name": "エジプトそば屋",
           "intro": "",
@@ -23887,8 +23702,8 @@
           "intro": "",
           "links": ""
         },
-        "yuunagi no senryokugai butai": {
-          "name": "夕凪の戦力外部隊",
+        "yuunagi gaibutai": {
+          "name": "夕凪外部隊",
           "intro": "",
           "links": ""
         },
@@ -23907,7 +23722,7 @@
           "intro": "",
           "links": ""
         },
-        "sakyuuya": {
+        "sakyuya": {
           "name": "砂丘屋",
           "intro": "",
           "links": ""
@@ -25245,7 +25060,7 @@
         "kumak.com": {
           "name": "KUMAK.COM",
           "intro": "",
-          "links": "||  |  | |"
+          "links": ""
         },
         "neruneru": {
           "name": "ねるねる",
@@ -26883,7 +26698,7 @@
           "links": ""
         },
         "kakuzato-ichi": {
-          "name": "核座頭市",
+          "name": "核座头市",
           "intro": "",
           "links": ""
         },
@@ -26981,6 +26796,36 @@
           "name": "にくにくイタリアン",
           "intro": "",
           "links": ""
+        },
+        "darkside room": {
+          "name": "だーくさいどるーむ",
+          "intro": "",
+          "links": ""
+        },
+        "chimee house": {
+          "name": "ちみはうす",
+          "intro": "",
+          "links": ""
+        },
+        "h at break": {
+          "name": "H@BREAK",
+          "intro": "",
+          "links": ""
+        },
+        "saigado": {
+          "name": "彩画堂",
+          "intro": "",
+          "links": ""
+        },
+        "yuuendou": {
+          "name": "遊猿堂",
+          "intro": "",
+          "links": ""
+        },
+        "kouchaya": {
+          "name": "紅茶屋",
+          "intro": "",
+          "links": ""
         }
       }
     },
@@ -26997,7 +26842,7 @@
           "描述图片可用作者的 pixiv 头像，或者为你自己喜爱的画师做一张图片。为排版好看，头像高度建议 200px 以内，当然头像里明显H的就不要放了。"
         ]
       },
-      "count": 2516,
+      "count": 2495,
       "data": {
         "pop": {
           "name": "POP",
@@ -27485,9 +27330,9 @@
           "links": ""
         },
         "ponpon": {
-          "name": "PONPON",
+          "name": "ぽんぽん",
           "intro": "",
-          "links": ""
+          "links": "pixiv\nTwitter"
         },
         "tetsujin": {
           "name": "铁人",
@@ -27754,12 +27599,7 @@
           "intro": "",
           "links": ""
         },
-        "fujutsushi": {
-          "name": "风术师",
-          "intro": "",
-          "links": ""
-        },
-        "fubuki poni": {
+        "kazabuki poni": {
           "name": "風吹ぽに",
           "intro": "",
           "links": ""
@@ -27814,8 +27654,8 @@
           "intro": "",
           "links": ""
         },
-        "koguro.": {
-          "name": "こぐろ。",
+        "kohaku.": {
+          "name": "こはく。（こぐろ。）",
           "intro": "",
           "links": ""
         },
@@ -27929,8 +27769,8 @@
           "intro": "",
           "links": ""
         },
-        "maruta itsuki": {
-          "name": "丸汰いつき",
+        "tsumumaru hifu": {
+          "name": "紡丸ひふ",
           "intro": "",
           "links": ""
         },
@@ -28084,8 +27924,8 @@
           "intro": "お嬢の浴室\nTWILIGHT DUSK",
           "links": ""
         },
-        "shiba junko": {
-          "name": "司马淳子",
+        "oi shibako": {
+          "name": "しばこ（司马淳子）",
           "intro": "",
           "links": ""
         },
@@ -28709,8 +28549,8 @@
           "intro": "",
           "links": ""
         },
-        "gekka saeki": {
-          "name": "月下冴喜",
+        "wakamiya santa": {
+          "name": "若宫参太",
           "intro": "",
           "links": ""
         },
@@ -29229,11 +29069,6 @@
           "intro": "",
           "links": ""
         },
-        "naruya taka": {
-          "name": "成矢タカ",
-          "intro": "",
-          "links": ""
-        },
         "hana hook": {
           "name": "華フック",
           "intro": "",
@@ -29354,11 +29189,6 @@
           "intro": "",
           "links": ""
         },
-        "han": {
-          "name": "HAN",
-          "intro": "",
-          "links": ""
-        },
         "tsurui": {
           "name": "鹤井",
           "intro": "",
@@ -29429,7 +29259,7 @@
           "intro": "",
           "links": ""
         },
-        "miyatsuki touka": {
+        "tokitsu mika": {
           "name": "都月十佳",
           "intro": "",
           "links": ""
@@ -29509,8 +29339,8 @@
           "intro": "",
           "links": ""
         },
-        "koiou": {
-          "name": "鲤王",
+        "sugou hiroyuki": {
+          "name": "菅生博倖",
           "intro": "",
           "links": ""
         },
@@ -29864,11 +29694,6 @@
           "intro": "",
           "links": ""
         },
-        "kuroi hiroki": {
-          "name": "黑井弘骑",
-          "intro": "",
-          "links": ""
-        },
         "rindou": {
           "name": "龙胆",
           "intro": "",
@@ -30109,11 +29934,6 @@
           "intro": "",
           "links": ""
         },
-        "buguon": {
-          "name": "不光",
-          "intro": "",
-          "links": ""
-        },
         "annekuma": {
           "name": "ANNEKUMA",
           "intro": "",
@@ -30264,11 +30084,6 @@
           "intro": "",
           "links": ""
         },
-        "samidore setsuna": {
-          "name": "五月雨せつな",
-          "intro": "",
-          "links": ""
-        },
         "mutou mato": {
           "name": "武藤 まと",
           "intro": "",
@@ -30326,11 +30141,6 @@
         },
         "greenteaneko": {
           "name": "GreenTeaNeko",
-          "intro": "",
-          "links": ""
-        },
-        "akky": {
-          "name": "あっきぃ☆",
           "intro": "",
           "links": ""
         },
@@ -30924,8 +30734,8 @@
           "intro": "",
           "links": ""
         },
-        "porno studio": {
-          "name": "ポルノスタディオ",
+        "suitekiya yuumin": {
+          "name": "水滴家悠民",
           "intro": "",
           "links": ""
         },
@@ -31189,7 +30999,7 @@
           "intro": "日本女性插画师，主要从事成人插画作品。",
           "links": ""
         },
-        "hoshiai hiro": {
+        "hoshiai hilo": {
           "name": "星逢ひろ",
           "intro": "日本成人漫画家。最初以男性向种类活动。2000年以后，将创作重心移向正太(shotacon)和男同(yaoi)。其作品故事情节细腻，在H中仍能体会到一些感动。",
           "links": ""
@@ -31216,16 +31026,6 @@
         },
         "suehirogari": {
           "name": "すえひろがり",
-          "intro": "",
-          "links": ""
-        },
-        "shiromaneki": {
-          "name": "シオマネキ",
-          "intro": "",
-          "links": ""
-        },
-        "chimee house": {
-          "name": "ちみはうす",
           "intro": "",
           "links": ""
         },
@@ -31414,8 +31214,8 @@
           "intro": "",
           "links": ""
         },
-        "zood": {
-          "name": "ZOOD",
+        "zootan": {
+          "name": "ZooTAN",
           "intro": "",
           "links": ""
         },
@@ -31491,11 +31291,6 @@
         },
         "sakagaki": {
           "name": "サカガキ",
-          "intro": "",
-          "links": ""
-        },
-        "ohmiya tsukasa": {
-          "name": "大宫司",
           "intro": "",
           "links": ""
         },
@@ -31604,11 +31399,6 @@
           "intro": "",
           "links": ""
         },
-        "umakuchi shouyu": {
-          "name": "うまくち醤油",
-          "intro": "",
-          "links": ""
-        },
         "ushino kandume": {
           "name": "牛野缶诘",
           "intro": "",
@@ -31709,18 +31499,13 @@
           "intro": "",
           "links": ""
         },
-        "hirama hirokazu": {
-          "name": "平間ひろかず",
+        "naruko": {
+          "name": "鳴湖（平間ひろかず）",
           "intro": "",
           "links": ""
         },
         "hishigata tomaru": {
           "name": "ひし形とまる",
-          "intro": "",
-          "links": ""
-        },
-        "ichiko": {
-          "name": "いちこ",
           "intro": "",
           "links": ""
         },
@@ -31756,11 +31541,6 @@
         },
         "izumi yuhina": {
           "name": "いずみゆひな",
-          "intro": "",
-          "links": ""
-        },
-        "ryouma": {
-          "name": "りょうま",
           "intro": "",
           "links": ""
         },
@@ -31891,11 +31671,6 @@
         },
         "koppori nama beer": {
           "name": "こっぽり生ビール",
-          "intro": "",
-          "links": ""
-        },
-        "linda": {
-          "name": "LINDA",
           "intro": "",
           "links": ""
         },
@@ -32149,11 +31924,6 @@
           "intro": "",
           "links": ""
         },
-        "ruku": {
-          "name": "るく",
-          "intro": "",
-          "links": ""
-        },
         "sugiyuu": {
           "name": "スギユウ",
           "intro": "",
@@ -32241,11 +32011,6 @@
         },
         "arai taiki": {
           "name": "新井大器",
-          "intro": "",
-          "links": ""
-        },
-        "ari": {
-          "name": "あり",
           "intro": "",
           "links": ""
         },
@@ -32359,7 +32124,7 @@
           "intro": "",
           "links": ""
         },
-        "harukichi": {
+        "haruhisky": {
           "name": "はるきち",
           "intro": "",
           "links": ""
@@ -33124,8 +32889,8 @@
           "intro": "",
           "links": ""
         },
-        "aino chie": {
-          "name": "あいの智絵",
+        "sakomae aichi": {
+          "name": "佐古前あいち（あいの智絵）",
           "intro": "",
           "links": ""
         },
@@ -33314,11 +33079,6 @@
           "intro": "",
           "links": ""
         },
-        "motsu aki": {
-          "name": "もつあき",
-          "intro": "",
-          "links": ""
-        },
         "yanagihara mitsuki": {
           "name": "柳原ミツキ",
           "intro": "",
@@ -33364,11 +33124,6 @@
           "intro": "",
           "links": ""
         },
-        "hamd": {
-          "name": "HAMD",
-          "intro": "",
-          "links": ""
-        },
         "nagi yuki": {
           "name": "凪居ユキ",
           "intro": "",
@@ -33386,11 +33141,6 @@
         },
         "minamihama yoriko": {
           "name": "南浜よりこ",
-          "intro": "",
-          "links": ""
-        },
-        "pd": {
-          "name": "Pd",
           "intro": "",
           "links": ""
         },
@@ -33494,11 +33244,6 @@
           "intro": "",
           "links": ""
         },
-        "furokuma": {
-          "name": "ふろくま",
-          "intro": "",
-          "links": ""
-        },
         "hawa": {
           "name": "はわ",
           "intro": "",
@@ -33531,11 +33276,6 @@
         },
         "maruchang": {
           "name": "丸ちゃん。",
-          "intro": "",
-          "links": ""
-        },
-        "a1": {
-          "name": "A1",
           "intro": "",
           "links": ""
         },
@@ -33609,18 +33349,8 @@
           "intro": "",
           "links": ""
         },
-        "yd": {
-          "name": "YD",
-          "intro": "",
-          "links": ""
-        },
         "ishikawa naoya": {
           "name": "石川直哉",
-          "intro": "",
-          "links": ""
-        },
-        "wb": {
-          "name": "WB",
           "intro": "",
           "links": ""
         },
@@ -33651,11 +33381,6 @@
         },
         "sinntarou": {
           "name": "心太朗",
-          "intro": "",
-          "links": ""
-        },
-        "suzuki hajime": {
-          "name": "透月ハジメ",
           "intro": "",
           "links": ""
         },
@@ -33709,11 +33434,6 @@
           "intro": "",
           "links": ""
         },
-        "sakura": {
-          "name": "樱",
-          "intro": "多个作者：櫻 | sakura | さくら\nsakura：\nさくら：",
-          "links": ""
-        },
         "yakiniku king": {
           "name": "焼肉キング",
           "intro": "",
@@ -33744,8 +33464,8 @@
           "intro": "",
           "links": ""
         },
-        "kiyomiya ryou": {
-          "name": "清宫凉",
+        "kiyomiya ryo": {
+          "name": "清宮涼",
           "intro": "",
           "links": ""
         },
@@ -34069,8 +33789,8 @@
           "intro": "",
           "links": ""
         },
-        "kurosawa yuri": {
-          "name": "黒澤ユリ",
+        "kurosawa kiyotaka": {
+          "name": "黒澤清崇",
           "intro": "",
           "links": ""
         },
@@ -34464,7 +34184,7 @@
           "intro": "",
           "links": ""
         },
-        "ponsu jure": {
+        "ponz": {
           "name": "ぽん酢",
           "intro": "",
           "links": ""
@@ -34557,7 +34277,7 @@
         "sorimura youji": {
           "name": "そりむらようじ",
           "intro": "",
-          "links": ""
+          "links": "pixiv\nTwitter"
         },
         "yamamoto kazue": {
           "name": "山本和枝",
@@ -34589,11 +34309,6 @@
           "intro": "",
           "links": ""
         },
-        "habara tetsu": {
-          "name": "叶原铁",
-          "intro": "",
-          "links": ""
-        },
         "kisaragi miyu": {
           "name": "如月みゆ",
           "intro": "",
@@ -34619,7 +34334,7 @@
           "intro": "",
           "links": ""
         },
-        "afukuro": {
+        "af kuro": {
           "name": "アフ黒",
           "intro": "",
           "links": ""
@@ -34664,7 +34379,7 @@
           "intro": "",
           "links": ""
         },
-        "sakura shouji": {
+        "sakura syoji": {
           "name": "咲良将司",
           "intro": "",
           "links": ""
@@ -34879,8 +34594,8 @@
           "intro": "",
           "links": ""
         },
-        "grace": {
-          "name": "ぐれいす",
+        "grace ishikawa": {
+          "name": "グレイス石川",
           "intro": "",
           "links": ""
         },
@@ -34941,11 +34656,6 @@
         },
         "karube guri": {
           "name": "軽部ぐり",
-          "intro": "",
-          "links": ""
-        },
-        "kazabuki poni": {
-          "name": "風吹ぽに",
           "intro": "",
           "links": ""
         },
@@ -35164,8 +34874,8 @@
           "intro": "",
           "links": ""
         },
-        "mashiro mami": {
-          "name": "眞白まみ",
+        "mamabe mami": {
+          "name": "眞々部まみ",
           "intro": "",
           "links": ""
         },
@@ -36159,7 +35869,7 @@
           "intro": "",
           "links": ""
         },
-        "koaya aco": {
+        "koayako": {
           "name": "コアヤアコ",
           "intro": "",
           "links": ""
@@ -36294,8 +36004,8 @@
           "intro": "",
           "links": ""
         },
-        "tendou itto": {
-          "name": "天童一斗",
+        "uziga waita": {
+          "name": "氏賀Y太",
           "intro": "",
           "links": ""
         },
@@ -36504,8 +36214,8 @@
           "intro": "",
           "links": ""
         },
-        "kokuten kazuma": {
-          "name": "国天カズマ",
+        "kazuma g-version": {
+          "name": "カズマ・G-VERSION",
           "intro": "",
           "links": ""
         },
@@ -36624,7 +36334,7 @@
           "intro": "",
           "links": ""
         },
-        "rokuwa": {
+        "shirasagi rokuwa": {
           "name": "白鹭六羽",
           "intro": "",
           "links": ""
@@ -36814,11 +36524,6 @@
           "intro": "",
           "links": ""
         },
-        "sas": {
-          "name": "SAS",
-          "intro": "",
-          "links": ""
-        },
         "uyuu atsuno": {
           "name": "烏有あつの",
           "intro": "",
@@ -36994,8 +36699,8 @@
           "intro": "",
           "links": ""
         },
-        "poyoyon rock": {
-          "name": "ぽよよん♥ろっく",
+        "watanabe akio": {
+          "name": "渡边明夫",
           "intro": "",
           "links": ""
         },
@@ -37164,11 +36869,6 @@
           "intro": "",
           "links": ""
         },
-        "chouzuki maryou": {
-          "name": "蝶月真绫",
-          "intro": "",
-          "links": ""
-        },
         "azarashi": {
           "name": "アザラシ",
           "intro": "",
@@ -37324,8 +37024,8 @@
           "intro": "",
           "links": ""
         },
-        "akaxia": {
-          "name": "AkaXia",
+        "akashia": {
+          "name": "アカシア",
           "intro": "",
           "links": "pixiv"
         },
@@ -37354,7 +37054,7 @@
           "intro": "",
           "links": ""
         },
-        "shiri": {
+        "silly": {
           "name": "しりー",
           "intro": "",
           "links": "pixiv"
@@ -37464,12 +37164,12 @@
           "intro": "",
           "links": ""
         },
-        "wolt": {
+        "kishiri toworu": {
           "name": "ヲルト",
           "intro": "",
           "links": ""
         },
-        "yaki tomeito": {
+        "yakitomato": {
           "name": "焼きトマト",
           "intro": "",
           "links": ""
@@ -37529,7 +37229,7 @@
           "intro": "",
           "links": ""
         },
-        "dadarou": {
+        "datarou": {
           "name": "だたろう",
           "intro": "",
           "links": ""
@@ -37936,11 +37636,6 @@
         },
         "gennari": {
           "name": "ゲンナリ",
-          "intro": "",
-          "links": ""
-        },
-        "hanasaki tsutsuji": {
-          "name": "花咲つつじ",
           "intro": "",
           "links": ""
         },
@@ -38549,23 +38244,13 @@
           "intro": "",
           "links": ""
         },
-        "darjeeling.": {
-          "name": "だ～じりん。",
+        "wes heartland smith": {
+          "name": "ウェス·ハートランド·スミス",
           "intro": "",
           "links": ""
         },
         "pochincoff": {
           "name": "ポチンコフ",
-          "intro": "",
-          "links": ""
-        },
-        "tamasatou": {
-          "name": "玉砂糖",
-          "intro": "",
-          "links": ""
-        },
-        "kogasaki yuina": {
-          "name": "こがさきゆいな",
           "intro": "",
           "links": ""
         },
@@ -38894,7 +38579,7 @@
           "intro": "",
           "links": ""
         },
-        "kazuki misakio": {
+        "kazuki misaki": {
           "name": "数木美咲",
           "intro": "",
           "links": ""
@@ -39141,11 +38826,6 @@
         },
         "genzou kokuto": {
           "name": "幻像黒兎",
-          "intro": "",
-          "links": ""
-        },
-        "kiyomiya ryo": {
-          "name": "清宮涼",
           "intro": "",
           "links": ""
         },
@@ -39578,6 +39258,66 @@
           "name": "ほし",
           "intro": "",
           "links": "pixiv\nTwitter"
+        },
+        "nanamatsu kenji": {
+          "name": "七松建司",
+          "intro": "",
+          "links": ""
+        },
+        "fuumi": {
+          "name": "ふーみ",
+          "intro": "",
+          "links": "pixiv\nTwitter"
+        },
+        "shacho": {
+          "name": "社ちょ",
+          "intro": "",
+          "links": "pixiv\nTwitter"
+        },
+        "toito": {
+          "name": "トイト",
+          "intro": "",
+          "links": "pixiv\nTwitter"
+        },
+        "toketou": {
+          "name": "とけとう",
+          "intro": "",
+          "links": "pixiv"
+        },
+        "shisyo": {
+          "name": "ししょー",
+          "intro": "",
+          "links": "pixiv\nTwitter"
+        },
+        "whistlerx": {
+          "name": "WhistlerX",
+          "intro": "",
+          "links": ""
+        },
+        "hagiwara asami": {
+          "name": "萩原あさ美",
+          "intro": "",
+          "links": ""
+        },
+        "itose ikuto": {
+          "name": "愛瀬郁人",
+          "intro": "",
+          "links": "pixiv"
+        },
+        "osaru": {
+          "name": "御猿",
+          "intro": "",
+          "links": ""
+        },
+        "etori yuuya": {
+          "name": "江鳥",
+          "intro": "",
+          "links": "pixiv"
+        },
+        "ootsuka kotora": {
+          "name": "大塚子虎",
+          "intro": "",
+          "links": ""
         }
       }
     },
@@ -44039,7 +43779,7 @@
         "glory hole": {
           "name": "寻欢洞",
           "intro": "墙上用来进行性行为的洞。不应与卡在墙上(stuck in wall)或虫洞(wormhole)混淆。",
-          "links": "|onahole"
+          "links": ""
         },
         "machine": {
           "name": "机械奸",
