@@ -9252,7 +9252,7 @@
     "name": "ponpon",
     "intro": null,
     "otherLanguage": [
-      "PONPON"
+      "ぽんぽん"
     ],
     "namespace": "artist"
   },
@@ -28587,6 +28587,342 @@
     "namespace": "artist"
   },
   {
+    "name": "kohaku.",
+    "intro": null,
+    "otherLanguage": [
+      "こはく。（こぐろ。）"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "tsumumaru hifu",
+    "intro": null,
+    "otherLanguage": [
+      "紡丸ひふ"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "oi shibako",
+    "intro": null,
+    "otherLanguage": [
+      "しばこ（司马淳子）"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "wakamiya santa",
+    "intro": null,
+    "otherLanguage": [
+      "若宫参太"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "tokitsu mika",
+    "intro": null,
+    "otherLanguage": [
+      "都月十佳"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "sugou hiroyuki",
+    "intro": null,
+    "otherLanguage": [
+      "菅生博倖"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "suitekiya yuumin",
+    "intro": null,
+    "otherLanguage": [
+      "水滴家悠民"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "hoshiai hilo",
+    "intro": null,
+    "otherLanguage": [
+      "星逢ひろ"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "zootan",
+    "intro": null,
+    "otherLanguage": [
+      "ZooTAN"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "naruko",
+    "intro": null,
+    "otherLanguage": [
+      "鳴湖（平間ひろかず）"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "haruhisky",
+    "intro": null,
+    "otherLanguage": [
+      "はるきち"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "sakomae aichi",
+    "intro": null,
+    "otherLanguage": [
+      "佐古前あいち（あいの智絵）"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "kurosawa kiyotaka",
+    "intro": null,
+    "otherLanguage": [
+      "黒澤清崇"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "ponz",
+    "intro": null,
+    "otherLanguage": [
+      "ぽん酢"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "af kuro",
+    "intro": null,
+    "otherLanguage": [
+      "アフ黒"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "sakura syoji",
+    "intro": null,
+    "otherLanguage": [
+      "咲良将司"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "grace ishikawa",
+    "intro": null,
+    "otherLanguage": [
+      "グレイス石川"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "mamabe mami",
+    "intro": null,
+    "otherLanguage": [
+      "眞々部まみ"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "koayako",
+    "intro": null,
+    "otherLanguage": [
+      "コアヤアコ"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "uziga waita",
+    "intro": null,
+    "otherLanguage": [
+      "氏賀Y太"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "kazuma g-version",
+    "intro": null,
+    "otherLanguage": [
+      "カズマ・G-VERSION"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "shirasagi rokuwa",
+    "intro": null,
+    "otherLanguage": [
+      "白鹭六羽"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "watanabe akio",
+    "intro": null,
+    "otherLanguage": [
+      "渡边明夫"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "akashia",
+    "intro": null,
+    "otherLanguage": [
+      "アカシア"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "silly",
+    "intro": null,
+    "otherLanguage": [
+      "しりー"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "kishiri toworu",
+    "intro": null,
+    "otherLanguage": [
+      "ヲルト"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "yakitomato",
+    "intro": null,
+    "otherLanguage": [
+      "焼きトマト"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "datarou",
+    "intro": null,
+    "otherLanguage": [
+      "だたろう"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "wes heartland smith",
+    "intro": null,
+    "otherLanguage": [
+      "ウェス·ハートランド·スミス"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "kazuki misaki",
+    "intro": null,
+    "otherLanguage": [
+      "数木美咲"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "nanamatsu kenji",
+    "intro": null,
+    "otherLanguage": [
+      "七松建司"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "fuumi",
+    "intro": null,
+    "otherLanguage": [
+      "ふーみ"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "shacho",
+    "intro": null,
+    "otherLanguage": [
+      "社ちょ"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "toito",
+    "intro": null,
+    "otherLanguage": [
+      "トイト"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "toketou",
+    "intro": null,
+    "otherLanguage": [
+      "とけとう"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "shisyo",
+    "intro": null,
+    "otherLanguage": [
+      "ししょー"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "whistlerx",
+    "intro": null,
+    "otherLanguage": [
+      "WhistlerX"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "hagiwara asami",
+    "intro": null,
+    "otherLanguage": [
+      "萩原あさ美"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "itose ikuto",
+    "intro": null,
+    "otherLanguage": [
+      "愛瀬郁人"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "osaru",
+    "intro": null,
+    "otherLanguage": [
+      "御猿"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "etori yuuya",
+    "intro": null,
+    "otherLanguage": [
+      "江鳥"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "ootsuka kotora",
+    "intro": null,
+    "otherLanguage": [
+      "大塚子虎"
+    ],
+    "namespace": "artist"
+  },
+  {
     "name": "clockup",
     "intro": null,
     "otherLanguage": [
@@ -41040,7 +41376,7 @@
     "name": "kakuzato-ichi",
     "intro": null,
     "otherLanguage": [
-      "核座頭市"
+      "核座头市"
     ],
     "namespace": "group"
   },
@@ -41193,6 +41529,134 @@
     "intro": null,
     "otherLanguage": [
       "にくにくイタリアン"
+    ],
+    "namespace": "group"
+  },
+  {
+    "name": "atelier sakura roshutsu yuugi",
+    "intro": null,
+    "otherLanguage": [
+      "樱花工作室 露出＊游戏"
+    ],
+    "namespace": "group"
+  },
+  {
+    "name": "atelier sakura konmai studio",
+    "intro": null,
+    "otherLanguage": [
+      "樱花工作室 こんまいすたじお"
+    ],
+    "namespace": "group"
+  },
+  {
+    "name": "5pb",
+    "intro": null,
+    "otherLanguage": [
+      "5pb."
+    ],
+    "namespace": "group"
+  },
+  {
+    "name": "kohagura.",
+    "intro": null,
+    "otherLanguage": [
+      "こはぐら。（こぐろ屋。）"
+    ],
+    "namespace": "group"
+  },
+  {
+    "name": "sottilo nero",
+    "intro": null,
+    "otherLanguage": [
+      "ソッティーロネーロ"
+    ],
+    "namespace": "group"
+  },
+  {
+    "name": "nekojarasare",
+    "intro": null,
+    "otherLanguage": [
+      "猫じゃらされ"
+    ],
+    "namespace": "group"
+  },
+  {
+    "name": "wicked heart",
+    "intro": null,
+    "otherLanguage": [
+      "WICKED HEART"
+    ],
+    "namespace": "group"
+  },
+  {
+    "name": "niboniboshi",
+    "intro": null,
+    "otherLanguage": [
+      "にぼ煮干"
+    ],
+    "namespace": "group"
+  },
+  {
+    "name": "yuunagi gaibutai",
+    "intro": null,
+    "otherLanguage": [
+      "夕凪外部隊"
+    ],
+    "namespace": "group"
+  },
+  {
+    "name": "sakyuya",
+    "intro": null,
+    "otherLanguage": [
+      "砂丘屋"
+    ],
+    "namespace": "group"
+  },
+  {
+    "name": "darkside room",
+    "intro": null,
+    "otherLanguage": [
+      "だーくさいどるーむ"
+    ],
+    "namespace": "group"
+  },
+  {
+    "name": "chimee house",
+    "intro": null,
+    "otherLanguage": [
+      "ちみはうす"
+    ],
+    "namespace": "group"
+  },
+  {
+    "name": "h at break",
+    "intro": null,
+    "otherLanguage": [
+      "H@BREAK"
+    ],
+    "namespace": "group"
+  },
+  {
+    "name": "saigado",
+    "intro": null,
+    "otherLanguage": [
+      "彩画堂"
+    ],
+    "namespace": "group"
+  },
+  {
+    "name": "yuuendou",
+    "intro": null,
+    "otherLanguage": [
+      "遊猿堂"
+    ],
+    "namespace": "group"
+  },
+  {
+    "name": "kouchaya",
+    "intro": null,
+    "otherLanguage": [
+      "紅茶屋"
     ],
     "namespace": "group"
   },
@@ -52335,6 +52799,78 @@
     "intro": null,
     "otherLanguage": [
       "钟楼怪人"
+    ],
+    "namespace": "parody"
+  },
+  {
+    "name": "futari wa precure splash star",
+    "intro": null,
+    "otherLanguage": [
+      "光之美少女Splash Star"
+    ],
+    "namespace": "parody"
+  },
+  {
+    "name": "kamen rider drive",
+    "intro": null,
+    "otherLanguage": [
+      "假面骑士Drive"
+    ],
+    "namespace": "parody"
+  },
+  {
+    "name": "kamen rider ex-aid",
+    "intro": null,
+    "otherLanguage": [
+      "假面骑士EX-AID"
+    ],
+    "namespace": "parody"
+  },
+  {
+    "name": "macross plus",
+    "intro": null,
+    "otherLanguage": [
+      "超时空要塞Plus"
+    ],
+    "namespace": "parody"
+  },
+  {
+    "name": "macross vf-x",
+    "intro": null,
+    "otherLanguage": [
+      "超时空要塞VF-X"
+    ],
+    "namespace": "parody"
+  },
+  {
+    "name": "watashi no ashinaga ojisan",
+    "intro": null,
+    "otherLanguage": [
+      "长腿叔叔"
+    ],
+    "namespace": "parody"
+  },
+  {
+    "name": "shining soul",
+    "intro": null,
+    "otherLanguage": [
+      "光明之魂"
+    ],
+    "namespace": "parody"
+  },
+  {
+    "name": "kodoku no gourmet",
+    "intro": null,
+    "otherLanguage": [
+      "孤独的美食家"
+    ],
+    "namespace": "parody"
+  },
+  {
+    "name": "kishuku gakkou no juliet",
+    "intro": null,
+    "otherLanguage": [
+      "寄宿学校的朱丽叶"
     ],
     "namespace": "parody"
   },
@@ -71055,6 +71591,358 @@
     "intro": null,
     "otherLanguage": [
       "吉田优子"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "aya fujisaki",
+    "intro": null,
+    "otherLanguage": [
+      "藤崎绫"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "kenichi saruyama",
+    "intro": null,
+    "otherLanguage": [
+      "猿山健一"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "meltryllis",
+    "intro": null,
+    "otherLanguage": [
+      "溶解莉莉丝"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "nobunaga oda",
+    "intro": null,
+    "otherLanguage": [
+      "织田信长"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "nojaoji",
+    "intro": null,
+    "otherLanguage": [
+      "Mikoko"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "reines el-melloi archisorte",
+    "intro": null,
+    "otherLanguage": [
+      "莱妮丝·埃尔梅罗·阿奇佐尔缇"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "rindou mikoto",
+    "intro": null,
+    "otherLanguage": [
+      "龙胆尊"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "hotaru ichijou",
+    "intro": null,
+    "otherLanguage": [
+      "一条萤"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "komari koshigaya",
+    "intro": null,
+    "otherLanguage": [
+      "越谷小鞠"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "renown",
+    "intro": null,
+    "otherLanguage": [
+      "声望"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "maria balthasar",
+    "intro": null,
+    "otherLanguage": [
+      "玛利亚·巴尔塔札尔"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "emeralda kasim",
+    "intro": null,
+    "otherLanguage": [
+      "艾美拉达·卡西姆"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "ai hinatsuru",
+    "intro": null,
+    "otherLanguage": [
+      "雏鹤爱"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "ginko sora",
+    "intro": null,
+    "otherLanguage": [
+      "空银子"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "chariot",
+    "intro": null,
+    "otherLanguage": [
+      "战轮妖精"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "strength",
+    "intro": null,
+    "otherLanguage": [
+      "力量"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "chang chun",
+    "intro": null,
+    "otherLanguage": [
+      "长春"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "kirika akatsuki",
+    "intro": null,
+    "otherLanguage": [
+      "晓切歌"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "asuha chigusa",
+    "intro": null,
+    "otherLanguage": [
+      "千种明日叶"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "kasumi chigusa",
+    "intro": null,
+    "otherLanguage": [
+      "千种霞"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "ange katrina",
+    "intro": null,
+    "otherLanguage": [
+      "安洁·卡特莉娜"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "cagliostro",
+    "intro": null,
+    "otherLanguage": [
+      "卡莉奥斯特萝"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "kyouka hikawa",
+    "intro": null,
+    "otherLanguage": [
+      "冰川镜华"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "retoree",
+    "intro": null,
+    "otherLanguage": [
+      "莱托莉"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "cyan hijirikawa",
+    "intro": null,
+    "otherLanguage": [
+      "希安（圣川诗杏）"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "saren sasaki",
+    "intro": null,
+    "otherLanguage": [
+      "佐佐木咲恋"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "niyon",
+    "intro": null,
+    "otherLanguage": [
+      "妮欧"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "yuel",
+    "intro": null,
+    "otherLanguage": [
+      "尤艾尔"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "societte",
+    "intro": null,
+    "otherLanguage": [
+      "苏丝雅"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "kanau kongou",
+    "intro": null,
+    "otherLanguage": [
+      "金刚叶"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "yuuko aioi",
+    "intro": null,
+    "otherLanguage": [
+      "相生祐子"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "mio naganohara",
+    "intro": null,
+    "otherLanguage": [
+      "长野原美绪"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "mai minakami",
+    "intro": null,
+    "otherLanguage": [
+      "水上麻衣"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "nano shinonome",
+    "intro": null,
+    "otherLanguage": [
+      "东云名乃"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "hakase shinonome",
+    "intro": null,
+    "otherLanguage": [
+      "东云博士"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "ririchiyo shirakiin",
+    "intro": null,
+    "otherLanguage": [
+      "白鬼院凛凛蝶"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "sana inui",
+    "intro": null,
+    "otherLanguage": [
+      "乾纱凪"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "gotland",
+    "intro": null,
+    "otherLanguage": [
+      "哥特兰"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "nanachi",
+    "intro": null,
+    "otherLanguage": [
+      "娜娜奇"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "grecale",
+    "intro": null,
+    "otherLanguage": [
+      "东北风"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "nursery rhyme",
+    "intro": null,
+    "otherLanguage": [
+      "童谣"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "hasuki komai",
+    "intro": null,
+    "otherLanguage": [
+      "狛井莲季"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "juliet persia",
+    "intro": null,
+    "otherLanguage": [
+      "朱丽叶·佩尔西亚"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "romio inuzuka",
+    "intro": null,
+    "otherLanguage": [
+      "犬冢露壬雄"
     ],
     "namespace": "character"
   },

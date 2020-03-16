@@ -9249,7 +9249,7 @@
     "namespace": "artist"
   },
   {
-    "name": "PONPON",
+    "name": "ぽんぽん",
     "intro": "",
     "otherLanguage": [
       "ponpon"
@@ -28587,6 +28587,342 @@
     "namespace": "artist"
   },
   {
+    "name": "こはく。（こぐろ。）",
+    "intro": "",
+    "otherLanguage": [
+      "kohaku."
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "紡丸ひふ",
+    "intro": "",
+    "otherLanguage": [
+      "tsumumaru hifu"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "しばこ（司马淳子）",
+    "intro": "",
+    "otherLanguage": [
+      "oi shibako"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "若宫参太",
+    "intro": "",
+    "otherLanguage": [
+      "wakamiya santa"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "都月十佳",
+    "intro": "",
+    "otherLanguage": [
+      "tokitsu mika"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "菅生博倖",
+    "intro": "",
+    "otherLanguage": [
+      "sugou hiroyuki"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "水滴家悠民",
+    "intro": "",
+    "otherLanguage": [
+      "suitekiya yuumin"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "星逢ひろ",
+    "intro": "日本成人漫画家。最初以男性向种类活动。2000年以后，将创作重心移向正太(shotacon)和男同(yaoi)。其作品故事情节细腻，在H中仍能体会到一些感动。",
+    "otherLanguage": [
+      "hoshiai hilo"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "ZooTAN",
+    "intro": "",
+    "otherLanguage": [
+      "zootan"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "鳴湖（平間ひろかず）",
+    "intro": "",
+    "otherLanguage": [
+      "naruko"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "はるきち",
+    "intro": "",
+    "otherLanguage": [
+      "haruhisky"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "佐古前あいち（あいの智絵）",
+    "intro": "",
+    "otherLanguage": [
+      "sakomae aichi"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "黒澤清崇",
+    "intro": "",
+    "otherLanguage": [
+      "kurosawa kiyotaka"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "ぽん酢",
+    "intro": "",
+    "otherLanguage": [
+      "ponz"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "アフ黒",
+    "intro": "",
+    "otherLanguage": [
+      "af kuro"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "咲良将司",
+    "intro": "",
+    "otherLanguage": [
+      "sakura syoji"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "グレイス石川",
+    "intro": "",
+    "otherLanguage": [
+      "grace ishikawa"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "眞々部まみ",
+    "intro": "",
+    "otherLanguage": [
+      "mamabe mami"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "コアヤアコ",
+    "intro": "",
+    "otherLanguage": [
+      "koayako"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "氏賀Y太",
+    "intro": "",
+    "otherLanguage": [
+      "uziga waita"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "カズマ・G-VERSION",
+    "intro": "",
+    "otherLanguage": [
+      "kazuma g-version"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "白鹭六羽",
+    "intro": "",
+    "otherLanguage": [
+      "shirasagi rokuwa"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "渡边明夫",
+    "intro": "",
+    "otherLanguage": [
+      "watanabe akio"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "アカシア",
+    "intro": "",
+    "otherLanguage": [
+      "akashia"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "しりー",
+    "intro": "",
+    "otherLanguage": [
+      "silly"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "ヲルト",
+    "intro": "",
+    "otherLanguage": [
+      "kishiri toworu"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "焼きトマト",
+    "intro": "",
+    "otherLanguage": [
+      "yakitomato"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "だたろう",
+    "intro": "",
+    "otherLanguage": [
+      "datarou"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "ウェス·ハートランド·スミス",
+    "intro": "",
+    "otherLanguage": [
+      "wes heartland smith"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "数木美咲",
+    "intro": "",
+    "otherLanguage": [
+      "kazuki misaki"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "七松建司",
+    "intro": "",
+    "otherLanguage": [
+      "nanamatsu kenji"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "ふーみ",
+    "intro": "",
+    "otherLanguage": [
+      "fuumi"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "社ちょ",
+    "intro": "",
+    "otherLanguage": [
+      "shacho"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "トイト",
+    "intro": "",
+    "otherLanguage": [
+      "toito"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "とけとう",
+    "intro": "",
+    "otherLanguage": [
+      "toketou"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "ししょー",
+    "intro": "",
+    "otherLanguage": [
+      "shisyo"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "WhistlerX",
+    "intro": "",
+    "otherLanguage": [
+      "whistlerx"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "萩原あさ美",
+    "intro": "",
+    "otherLanguage": [
+      "hagiwara asami"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "愛瀬郁人",
+    "intro": "",
+    "otherLanguage": [
+      "itose ikuto"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "御猿",
+    "intro": "",
+    "otherLanguage": [
+      "osaru"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "江鳥",
+    "intro": "",
+    "otherLanguage": [
+      "etori yuuya"
+    ],
+    "namespace": "artist"
+  },
+  {
+    "name": "大塚子虎",
+    "intro": "",
+    "otherLanguage": [
+      "ootsuka kotora"
+    ],
+    "namespace": "artist"
+  },
+  {
     "name": "CLOCKUP",
     "intro": "",
     "otherLanguage": [
@@ -41037,7 +41373,7 @@
     "namespace": "group"
   },
   {
-    "name": "核座頭市",
+    "name": "核座头市",
     "intro": "",
     "otherLanguage": [
       "kakuzato-ichi"
@@ -41197,6 +41533,134 @@
     "namespace": "group"
   },
   {
+    "name": "樱花工作室 露出＊游戏",
+    "intro": "",
+    "otherLanguage": [
+      "atelier sakura roshutsu yuugi"
+    ],
+    "namespace": "group"
+  },
+  {
+    "name": "樱花工作室 こんまいすたじお",
+    "intro": "",
+    "otherLanguage": [
+      "atelier sakura konmai studio"
+    ],
+    "namespace": "group"
+  },
+  {
+    "name": "5pb.",
+    "intro": "",
+    "otherLanguage": [
+      "5pb"
+    ],
+    "namespace": "group"
+  },
+  {
+    "name": "こはぐら。（こぐろ屋。）",
+    "intro": "",
+    "otherLanguage": [
+      "kohagura."
+    ],
+    "namespace": "group"
+  },
+  {
+    "name": "ソッティーロネーロ",
+    "intro": "",
+    "otherLanguage": [
+      "sottilo nero"
+    ],
+    "namespace": "group"
+  },
+  {
+    "name": "猫じゃらされ",
+    "intro": "",
+    "otherLanguage": [
+      "nekojarasare"
+    ],
+    "namespace": "group"
+  },
+  {
+    "name": "WICKED HEART",
+    "intro": "",
+    "otherLanguage": [
+      "wicked heart"
+    ],
+    "namespace": "group"
+  },
+  {
+    "name": "にぼ煮干",
+    "intro": "",
+    "otherLanguage": [
+      "niboniboshi"
+    ],
+    "namespace": "group"
+  },
+  {
+    "name": "夕凪外部隊",
+    "intro": "",
+    "otherLanguage": [
+      "yuunagi gaibutai"
+    ],
+    "namespace": "group"
+  },
+  {
+    "name": "砂丘屋",
+    "intro": "",
+    "otherLanguage": [
+      "sakyuya"
+    ],
+    "namespace": "group"
+  },
+  {
+    "name": "だーくさいどるーむ",
+    "intro": "",
+    "otherLanguage": [
+      "darkside room"
+    ],
+    "namespace": "group"
+  },
+  {
+    "name": "ちみはうす",
+    "intro": "",
+    "otherLanguage": [
+      "chimee house"
+    ],
+    "namespace": "group"
+  },
+  {
+    "name": "H@BREAK",
+    "intro": "",
+    "otherLanguage": [
+      "h at break"
+    ],
+    "namespace": "group"
+  },
+  {
+    "name": "彩画堂",
+    "intro": "",
+    "otherLanguage": [
+      "saigado"
+    ],
+    "namespace": "group"
+  },
+  {
+    "name": "遊猿堂",
+    "intro": "",
+    "otherLanguage": [
+      "yuuendou"
+    ],
+    "namespace": "group"
+  },
+  {
+    "name": "紅茶屋",
+    "intro": "",
+    "otherLanguage": [
+      "kouchaya"
+    ],
+    "namespace": "group"
+  },
+  {
     "name": "原创",
     "intro": "用于不包含来自任何已知 IP 的角色或系列的原创作品。仅用于同人志(doujinshi)分类。",
     "otherLanguage": [
@@ -41302,7 +41766,7 @@
   },
   {
     "name": "舰队Collection",
-    "intro": "",
+    "intro": "《舰队Collection》（艦隊これくしょん -艦これ-，又译舰队收藏）是由日本同人社团C2机关开发运营、角川集团投资、由DMM.com提供游戏平台的主要以旧日本海军舰船拟人为题材的收集养成卡牌赌博类网页游戏。",
     "otherLanguage": [
       "kantai collection"
     ],
@@ -42606,7 +43070,7 @@
   },
   {
     "name": "Fate/EXTRA",
-    "intro": "",
+    "intro": "《Fate/EXTRA》（日语：フェイト/エクストラ）是由TYPE-MOON和IMAGEEPOCH开发，Marvelous Entertainment发售的一款角色扮演游戏。是根据TYPE-MOON的文字冒险游戏《Fate/stay night》改编而成的。其后推出本作后续作品《Fate/EXTRA CCC》、《Fate/EXTELLA》、《Fate/EXTELLA LINK》。",
     "otherLanguage": [
       "fate extra"
     ],
@@ -52335,6 +52799,78 @@
     "intro": "《钟楼怪人》（英语：The Hunchback of Notre Dame）是一部由华特迪士尼制作、于1996年首次上映的电脑动画电影。它的上映日期是1996年6月21日（香港则于同年7月4日上映），为第36部华特迪士尼经典动画长片。这部电影的原型是维克多·雨果的作品《巴黎圣母院》，虽然仍保有原作故事的基本架构，但是这部电影却改动了原作的大部分情节。其剧情重点放在一位吉普赛人舞者爱丝梅拉达、费比斯队长和加西莫多的三角恋上。其中加西莫多是主角，他在巴黎圣母院的钟楼中负责敲钟，长相虽然很丑陋却心地善良。",
     "otherLanguage": [
       "the hunchback of notre dame"
+    ],
+    "namespace": "parody"
+  },
+  {
+    "name": "光之美少女Splash Star",
+    "intro": "这系列太多了，我没看过根本不认识，随便搞个封面看吧",
+    "otherLanguage": [
+      "futari wa precure splash star"
+    ],
+    "namespace": "parody"
+  },
+  {
+    "name": "假面骑士Drive",
+    "intro": "",
+    "otherLanguage": [
+      "kamen rider drive"
+    ],
+    "namespace": "parody"
+  },
+  {
+    "name": "假面骑士EX-AID",
+    "intro": "",
+    "otherLanguage": [
+      "kamen rider ex-aid"
+    ],
+    "namespace": "parody"
+  },
+  {
+    "name": "超时空要塞Plus",
+    "intro": "",
+    "otherLanguage": [
+      "macross plus"
+    ],
+    "namespace": "parody"
+  },
+  {
+    "name": "超时空要塞VF-X",
+    "intro": "",
+    "otherLanguage": [
+      "macross vf-x"
+    ],
+    "namespace": "parody"
+  },
+  {
+    "name": "长腿叔叔",
+    "intro": "",
+    "otherLanguage": [
+      "watashi no ashinaga ojisan"
+    ],
+    "namespace": "parody"
+  },
+  {
+    "name": "光明之魂",
+    "intro": "",
+    "otherLanguage": [
+      "shining soul"
+    ],
+    "namespace": "parody"
+  },
+  {
+    "name": "孤独的美食家",
+    "intro": "",
+    "otherLanguage": [
+      "kodoku no gourmet"
+    ],
+    "namespace": "parody"
+  },
+  {
+    "name": "寄宿学校的朱丽叶",
+    "intro": "《寄宿学校的朱丽叶》（日语：寄宿学校のジュリエット）为漫画家金田阳介所作的日本少年漫画，是以威廉·莎士比亚的戏剧作品《罗密欧与茱丽叶》为蓝本改编的作品。",
+    "otherLanguage": [
+      "kishuku gakkou no juliet"
     ],
     "namespace": "parody"
   },
@@ -67324,7 +67860,7 @@
   },
   {
     "name": "大礼服假面",
-    "intro": "",
+    "intro": "地场卫",
     "otherLanguage": [
       "tuxedo mask"
     ],
@@ -67340,7 +67876,7 @@
   },
   {
     "name": "水手月亮",
-    "intro": "",
+    "intro": "月野兔",
     "otherLanguage": [
       "sailor moon"
     ],
@@ -67356,7 +67892,7 @@
   },
   {
     "name": "水手小月亮",
-    "intro": "",
+    "intro": "小小兔",
     "otherLanguage": [
       "sailor chibi moon"
     ],
@@ -67372,7 +67908,7 @@
   },
   {
     "name": "水手水星",
-    "intro": "",
+    "intro": "水野亚美",
     "otherLanguage": [
       "sailor mercury"
     ],
@@ -67388,7 +67924,7 @@
   },
   {
     "name": "水手火星",
-    "intro": "",
+    "intro": "火野丽",
     "otherLanguage": [
       "sailor mars"
     ],
@@ -67404,7 +67940,7 @@
   },
   {
     "name": "水手木星",
-    "intro": "",
+    "intro": "木野真琴",
     "otherLanguage": [
       "sailor jupiter"
     ],
@@ -67420,7 +67956,7 @@
   },
   {
     "name": "水手金星",
-    "intro": "",
+    "intro": "爱野美奈子",
     "otherLanguage": [
       "sailor venus"
     ],
@@ -67436,7 +67972,7 @@
   },
   {
     "name": "水手土星",
-    "intro": "",
+    "intro": "土萌萤",
     "otherLanguage": [
       "sailor saturn"
     ],
@@ -67452,7 +67988,7 @@
   },
   {
     "name": "水手海王星",
-    "intro": "",
+    "intro": "海王满",
     "otherLanguage": [
       "sailor neptune"
     ],
@@ -67468,7 +68004,7 @@
   },
   {
     "name": "水手天王星",
-    "intro": "",
+    "intro": "天王遥",
     "otherLanguage": [
       "sailor uranus"
     ],
@@ -67484,7 +68020,7 @@
   },
   {
     "name": "水手冥王星",
-    "intro": "",
+    "intro": "冥王雪奈",
     "otherLanguage": [
       "sailor pluto"
     ],
@@ -70820,7 +71356,7 @@
   },
   {
     "name": "克洛伊·冯·爱因兹贝伦",
-    "intro": "",
+    "intro": "小黑，伊莉雅身上分裂并实体化的人格",
     "otherLanguage": [
       "chloe von einzbern"
     ],
@@ -71055,6 +71591,358 @@
     "intro": "",
     "otherLanguage": [
       "yuko yoshida"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "藤崎绫",
+    "intro": "",
+    "otherLanguage": [
+      "aya fujisaki"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "猿山健一",
+    "intro": "",
+    "otherLanguage": [
+      "kenichi saruyama"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "溶解莉莉丝",
+    "intro": "",
+    "otherLanguage": [
+      "meltryllis"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "织田信长",
+    "intro": "",
+    "otherLanguage": [
+      "nobunaga oda"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "Mikoko",
+    "intro": "Mikoko（日语：みここ）是Nekomasu作为虚拟YouTuber活动时的主要形象。形象为双马尾萝莉狐娘。在使用此形象时，Nekomasu自称虚拟口癖萝莉狐娘YouTuber大叔（バーチャルのじゃロリ狐娘Youtuberおじさん，简称のじゃおじ），并在句尾附上のじゃ的口癖。",
+    "otherLanguage": [
+      "nojaoji"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "莱妮丝·埃尔梅罗·阿奇佐尔缇",
+    "intro": "",
+    "otherLanguage": [
+      "reines el-melloi archisorte"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "龙胆尊",
+    "intro": "",
+    "otherLanguage": [
+      "rindou mikoto"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "一条萤",
+    "intro": "",
+    "otherLanguage": [
+      "hotaru ichijou"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "越谷小鞠",
+    "intro": "",
+    "otherLanguage": [
+      "komari koshigaya"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "声望",
+    "intro": "",
+    "otherLanguage": [
+      "renown"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "玛利亚·巴尔塔札尔",
+    "intro": "",
+    "otherLanguage": [
+      "maria balthasar"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "艾美拉达·卡西姆",
+    "intro": "",
+    "otherLanguage": [
+      "emeralda kasim"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "雏鹤爱",
+    "intro": "",
+    "otherLanguage": [
+      "ai hinatsuru"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "空银子",
+    "intro": "",
+    "otherLanguage": [
+      "ginko sora"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "战轮妖精",
+    "intro": "",
+    "otherLanguage": [
+      "chariot"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "力量",
+    "intro": "",
+    "otherLanguage": [
+      "strength"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "长春",
+    "intro": "",
+    "otherLanguage": [
+      "chang chun"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "晓切歌",
+    "intro": "",
+    "otherLanguage": [
+      "kirika akatsuki"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "千种明日叶",
+    "intro": "",
+    "otherLanguage": [
+      "asuha chigusa"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "千种霞",
+    "intro": "",
+    "otherLanguage": [
+      "kasumi chigusa"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "安洁·卡特莉娜",
+    "intro": "",
+    "otherLanguage": [
+      "ange katrina"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "卡莉奥斯特萝",
+    "intro": "",
+    "otherLanguage": [
+      "cagliostro"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "冰川镜华",
+    "intro": "",
+    "otherLanguage": [
+      "kyouka hikawa"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "莱托莉",
+    "intro": "",
+    "otherLanguage": [
+      "retoree"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "希安（圣川诗杏）",
+    "intro": "",
+    "otherLanguage": [
+      "cyan hijirikawa"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "佐佐木咲恋",
+    "intro": "",
+    "otherLanguage": [
+      "saren sasaki"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "妮欧",
+    "intro": "",
+    "otherLanguage": [
+      "niyon"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "尤艾尔",
+    "intro": "",
+    "otherLanguage": [
+      "yuel"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "苏丝雅",
+    "intro": "",
+    "otherLanguage": [
+      "societte"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "金刚叶",
+    "intro": "",
+    "otherLanguage": [
+      "kanau kongou"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "相生祐子",
+    "intro": "",
+    "otherLanguage": [
+      "yuuko aioi"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "长野原美绪",
+    "intro": "",
+    "otherLanguage": [
+      "mio naganohara"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "水上麻衣",
+    "intro": "",
+    "otherLanguage": [
+      "mai minakami"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "东云名乃",
+    "intro": "",
+    "otherLanguage": [
+      "nano shinonome"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "东云博士",
+    "intro": "",
+    "otherLanguage": [
+      "hakase shinonome"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "白鬼院凛凛蝶",
+    "intro": "",
+    "otherLanguage": [
+      "ririchiyo shirakiin"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "乾纱凪",
+    "intro": "",
+    "otherLanguage": [
+      "sana inui"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "哥特兰",
+    "intro": "",
+    "otherLanguage": [
+      "gotland"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "娜娜奇",
+    "intro": "香喷喷毛茸茸的娜娜奇。出自来自深渊（Made in Abyss)",
+    "otherLanguage": [
+      "nanachi"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "东北风",
+    "intro": "",
+    "otherLanguage": [
+      "grecale"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "童谣",
+    "intro": "",
+    "otherLanguage": [
+      "nursery rhyme"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "狛井莲季",
+    "intro": "狛井莲季是由金田阳介所创作的漫画《寄宿学校的朱丽叶》及其衍生作品的登场角色。黑犬公寓高等部二年级生，黑犬公寓监督生副长兼会计。 犬冢的青梅竹马，喜欢犬冢露壬雄，为了代替被赶下队长职位的战犯犬冢，由莲季担任一年级队长。 虽然得知犬冢喜欢朱丽叶·佩尔西亚并且在交往，不过并没有告诉其他人，但是却仍然喜欢着他。 戴上眼镜的时候性格会如同变了一个人，一个非常严厉的“教师”！ 最终话在自己决定的梦想以及拉格多尔的帮助下，成为了一名演员！",
+    "otherLanguage": [
+      "hasuki komai"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "朱丽叶·佩尔西亚",
+    "intro": "漫画作品《寄宿学校的朱丽叶》的女主角，达利亚学园高中部学生，白猫宿舍本人所在年级的领导者。\n朱丽叶是威斯特公国贵族的独生女，因当时社会认定家族继承人只能由男性担任而从小磨练自己，背负了巨大压力，也因此希望改变世界法则。\n和犬冢露壬雄是从小到大的对手，喜欢犬冢露壬雄，在接受对方的告白后经常在他面前露出娇羞的表情。性格温柔，气质优雅，心地善良，平时威风凛凛，然而一见到露壬雄就……",
+    "otherLanguage": [
+      "juliet persia"
+    ],
+    "namespace": "character"
+  },
+  {
+    "name": "犬冢露壬雄",
+    "intro": "",
+    "otherLanguage": [
+      "romio inuzuka"
     ],
     "namespace": "character"
   },

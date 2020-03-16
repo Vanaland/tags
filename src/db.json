@@ -10431,7 +10431,7 @@
         "name": "ponpon"
       },
       "zh-CN": {
-        "name": "PONPON",
+        "name": "ぽんぽん",
         "intro": ""
       }
     },
@@ -32196,6 +32196,384 @@
         "name": "ほし",
         "intro": ""
       }
+    },
+    "kohaku.": {
+      "en-US": {
+        "name": "kohaku."
+      },
+      "zh-CN": {
+        "name": "こはく。（こぐろ。）",
+        "intro": ""
+      }
+    },
+    "tsumumaru hifu": {
+      "en-US": {
+        "name": "tsumumaru hifu"
+      },
+      "zh-CN": {
+        "name": "紡丸ひふ",
+        "intro": ""
+      }
+    },
+    "oi shibako": {
+      "en-US": {
+        "name": "oi shibako"
+      },
+      "zh-CN": {
+        "name": "しばこ（司马淳子）",
+        "intro": ""
+      }
+    },
+    "wakamiya santa": {
+      "en-US": {
+        "name": "wakamiya santa"
+      },
+      "zh-CN": {
+        "name": "若宫参太",
+        "intro": ""
+      }
+    },
+    "tokitsu mika": {
+      "en-US": {
+        "name": "tokitsu mika"
+      },
+      "zh-CN": {
+        "name": "都月十佳",
+        "intro": ""
+      }
+    },
+    "sugou hiroyuki": {
+      "en-US": {
+        "name": "sugou hiroyuki"
+      },
+      "zh-CN": {
+        "name": "菅生博倖",
+        "intro": ""
+      }
+    },
+    "suitekiya yuumin": {
+      "en-US": {
+        "name": "suitekiya yuumin"
+      },
+      "zh-CN": {
+        "name": "水滴家悠民",
+        "intro": ""
+      }
+    },
+    "hoshiai hilo": {
+      "en-US": {
+        "name": "hoshiai hilo"
+      },
+      "zh-CN": {
+        "name": "星逢ひろ",
+        "intro": "日本成人漫画家。最初以男性向种类活动。2000年以后，将创作重心移向正太(shotacon)和男同(yaoi)。其作品故事情节细腻，在H中仍能体会到一些感动。"
+      }
+    },
+    "zootan": {
+      "en-US": {
+        "name": "zootan"
+      },
+      "zh-CN": {
+        "name": "ZooTAN",
+        "intro": ""
+      }
+    },
+    "naruko": {
+      "en-US": {
+        "name": "naruko"
+      },
+      "zh-CN": {
+        "name": "鳴湖（平間ひろかず）",
+        "intro": ""
+      }
+    },
+    "haruhisky": {
+      "en-US": {
+        "name": "haruhisky"
+      },
+      "zh-CN": {
+        "name": "はるきち",
+        "intro": ""
+      }
+    },
+    "sakomae aichi": {
+      "en-US": {
+        "name": "sakomae aichi"
+      },
+      "zh-CN": {
+        "name": "佐古前あいち（あいの智絵）",
+        "intro": ""
+      }
+    },
+    "kurosawa kiyotaka": {
+      "en-US": {
+        "name": "kurosawa kiyotaka"
+      },
+      "zh-CN": {
+        "name": "黒澤清崇",
+        "intro": ""
+      }
+    },
+    "ponz": {
+      "en-US": {
+        "name": "ponz"
+      },
+      "zh-CN": {
+        "name": "ぽん酢",
+        "intro": ""
+      }
+    },
+    "af kuro": {
+      "en-US": {
+        "name": "af kuro"
+      },
+      "zh-CN": {
+        "name": "アフ黒",
+        "intro": ""
+      }
+    },
+    "sakura syoji": {
+      "en-US": {
+        "name": "sakura syoji"
+      },
+      "zh-CN": {
+        "name": "咲良将司",
+        "intro": ""
+      }
+    },
+    "grace ishikawa": {
+      "en-US": {
+        "name": "grace ishikawa"
+      },
+      "zh-CN": {
+        "name": "グレイス石川",
+        "intro": ""
+      }
+    },
+    "mamabe mami": {
+      "en-US": {
+        "name": "mamabe mami"
+      },
+      "zh-CN": {
+        "name": "眞々部まみ",
+        "intro": ""
+      }
+    },
+    "koayako": {
+      "en-US": {
+        "name": "koayako"
+      },
+      "zh-CN": {
+        "name": "コアヤアコ",
+        "intro": ""
+      }
+    },
+    "uziga waita": {
+      "en-US": {
+        "name": "uziga waita"
+      },
+      "zh-CN": {
+        "name": "氏賀Y太",
+        "intro": ""
+      }
+    },
+    "kazuma g-version": {
+      "en-US": {
+        "name": "kazuma g-version"
+      },
+      "zh-CN": {
+        "name": "カズマ・G-VERSION",
+        "intro": ""
+      }
+    },
+    "shirasagi rokuwa": {
+      "en-US": {
+        "name": "shirasagi rokuwa"
+      },
+      "zh-CN": {
+        "name": "白鹭六羽",
+        "intro": ""
+      }
+    },
+    "watanabe akio": {
+      "en-US": {
+        "name": "watanabe akio"
+      },
+      "zh-CN": {
+        "name": "渡边明夫",
+        "intro": ""
+      }
+    },
+    "akashia": {
+      "en-US": {
+        "name": "akashia"
+      },
+      "zh-CN": {
+        "name": "アカシア",
+        "intro": ""
+      }
+    },
+    "silly": {
+      "en-US": {
+        "name": "silly"
+      },
+      "zh-CN": {
+        "name": "しりー",
+        "intro": ""
+      }
+    },
+    "kishiri toworu": {
+      "en-US": {
+        "name": "kishiri toworu"
+      },
+      "zh-CN": {
+        "name": "ヲルト",
+        "intro": ""
+      }
+    },
+    "yakitomato": {
+      "en-US": {
+        "name": "yakitomato"
+      },
+      "zh-CN": {
+        "name": "焼きトマト",
+        "intro": ""
+      }
+    },
+    "datarou": {
+      "en-US": {
+        "name": "datarou"
+      },
+      "zh-CN": {
+        "name": "だたろう",
+        "intro": ""
+      }
+    },
+    "wes heartland smith": {
+      "en-US": {
+        "name": "wes heartland smith"
+      },
+      "zh-CN": {
+        "name": "ウェス·ハートランド·スミス",
+        "intro": ""
+      }
+    },
+    "kazuki misaki": {
+      "en-US": {
+        "name": "kazuki misaki"
+      },
+      "zh-CN": {
+        "name": "数木美咲",
+        "intro": ""
+      }
+    },
+    "nanamatsu kenji": {
+      "en-US": {
+        "name": "nanamatsu kenji"
+      },
+      "zh-CN": {
+        "name": "七松建司",
+        "intro": ""
+      }
+    },
+    "fuumi": {
+      "en-US": {
+        "name": "fuumi"
+      },
+      "zh-CN": {
+        "name": "ふーみ",
+        "intro": ""
+      }
+    },
+    "shacho": {
+      "en-US": {
+        "name": "shacho"
+      },
+      "zh-CN": {
+        "name": "社ちょ",
+        "intro": ""
+      }
+    },
+    "toito": {
+      "en-US": {
+        "name": "toito"
+      },
+      "zh-CN": {
+        "name": "トイト",
+        "intro": ""
+      }
+    },
+    "toketou": {
+      "en-US": {
+        "name": "toketou"
+      },
+      "zh-CN": {
+        "name": "とけとう",
+        "intro": ""
+      }
+    },
+    "shisyo": {
+      "en-US": {
+        "name": "shisyo"
+      },
+      "zh-CN": {
+        "name": "ししょー",
+        "intro": ""
+      }
+    },
+    "whistlerx": {
+      "en-US": {
+        "name": "whistlerx"
+      },
+      "zh-CN": {
+        "name": "WhistlerX",
+        "intro": ""
+      }
+    },
+    "hagiwara asami": {
+      "en-US": {
+        "name": "hagiwara asami"
+      },
+      "zh-CN": {
+        "name": "萩原あさ美",
+        "intro": ""
+      }
+    },
+    "itose ikuto": {
+      "en-US": {
+        "name": "itose ikuto"
+      },
+      "zh-CN": {
+        "name": "愛瀬郁人",
+        "intro": ""
+      }
+    },
+    "osaru": {
+      "en-US": {
+        "name": "osaru"
+      },
+      "zh-CN": {
+        "name": "御猿",
+        "intro": ""
+      }
+    },
+    "etori yuuya": {
+      "en-US": {
+        "name": "etori yuuya"
+      },
+      "zh-CN": {
+        "name": "江鳥",
+        "intro": ""
+      }
+    },
+    "ootsuka kotora": {
+      "en-US": {
+        "name": "ootsuka kotora"
+      },
+      "zh-CN": {
+        "name": "大塚子虎",
+        "intro": ""
+      }
     }
   },
   "group": {
@@ -46253,7 +46631,7 @@
         "name": "kakuzato-ichi"
       },
       "zh-CN": {
-        "name": "核座頭市",
+        "name": "核座头市",
         "intro": ""
       }
     },
@@ -46427,6 +46805,150 @@
         "name": "にくにくイタリアン",
         "intro": ""
       }
+    },
+    "atelier sakura roshutsu yuugi": {
+      "en-US": {
+        "name": "atelier sakura roshutsu yuugi"
+      },
+      "zh-CN": {
+        "name": "樱花工作室 露出＊游戏",
+        "intro": ""
+      }
+    },
+    "atelier sakura konmai studio": {
+      "en-US": {
+        "name": "atelier sakura konmai studio"
+      },
+      "zh-CN": {
+        "name": "樱花工作室 こんまいすたじお",
+        "intro": ""
+      }
+    },
+    "5pb": {
+      "en-US": {
+        "name": "5pb"
+      },
+      "zh-CN": {
+        "name": "5pb.",
+        "intro": ""
+      }
+    },
+    "kohagura.": {
+      "en-US": {
+        "name": "kohagura."
+      },
+      "zh-CN": {
+        "name": "こはぐら。（こぐろ屋。）",
+        "intro": ""
+      }
+    },
+    "sottilo nero": {
+      "en-US": {
+        "name": "sottilo nero"
+      },
+      "zh-CN": {
+        "name": "ソッティーロネーロ",
+        "intro": ""
+      }
+    },
+    "nekojarasare": {
+      "en-US": {
+        "name": "nekojarasare"
+      },
+      "zh-CN": {
+        "name": "猫じゃらされ",
+        "intro": ""
+      }
+    },
+    "wicked heart": {
+      "en-US": {
+        "name": "wicked heart"
+      },
+      "zh-CN": {
+        "name": "WICKED HEART",
+        "intro": ""
+      }
+    },
+    "niboniboshi": {
+      "en-US": {
+        "name": "niboniboshi"
+      },
+      "zh-CN": {
+        "name": "にぼ煮干",
+        "intro": ""
+      }
+    },
+    "yuunagi gaibutai": {
+      "en-US": {
+        "name": "yuunagi gaibutai"
+      },
+      "zh-CN": {
+        "name": "夕凪外部隊",
+        "intro": ""
+      }
+    },
+    "sakyuya": {
+      "en-US": {
+        "name": "sakyuya"
+      },
+      "zh-CN": {
+        "name": "砂丘屋",
+        "intro": ""
+      }
+    },
+    "darkside room": {
+      "en-US": {
+        "name": "darkside room"
+      },
+      "zh-CN": {
+        "name": "だーくさいどるーむ",
+        "intro": ""
+      }
+    },
+    "chimee house": {
+      "en-US": {
+        "name": "chimee house"
+      },
+      "zh-CN": {
+        "name": "ちみはうす",
+        "intro": ""
+      }
+    },
+    "h at break": {
+      "en-US": {
+        "name": "h at break"
+      },
+      "zh-CN": {
+        "name": "H@BREAK",
+        "intro": ""
+      }
+    },
+    "saigado": {
+      "en-US": {
+        "name": "saigado"
+      },
+      "zh-CN": {
+        "name": "彩画堂",
+        "intro": ""
+      }
+    },
+    "yuuendou": {
+      "en-US": {
+        "name": "yuuendou"
+      },
+      "zh-CN": {
+        "name": "遊猿堂",
+        "intro": ""
+      }
+    },
+    "kouchaya": {
+      "en-US": {
+        "name": "kouchaya"
+      },
+      "zh-CN": {
+        "name": "紅茶屋",
+        "intro": ""
+      }
     }
   },
   "parody": {
@@ -46553,7 +47075,7 @@
       },
       "zh-CN": {
         "name": "舰队Collection",
-        "intro": ""
+        "intro": "《舰队Collection》（艦隊これくしょん -艦これ-，又译舰队收藏）是由日本同人社团C2机关开发运营、角川集团投资、由DMM.com提供游戏平台的主要以旧日本海军舰船拟人为题材的收集养成卡牌赌博类网页游戏。"
       }
     },
     "pokemon": {
@@ -48020,7 +48542,7 @@
       },
       "zh-CN": {
         "name": "Fate/EXTRA",
-        "intro": ""
+        "intro": "《Fate/EXTRA》（日语：フェイト/エクストラ）是由TYPE-MOON和IMAGEEPOCH开发，Marvelous Entertainment发售的一款角色扮演游戏。是根据TYPE-MOON的文字冒险游戏《Fate/stay night》改编而成的。其后推出本作后续作品《Fate/EXTRA CCC》、《Fate/EXTELLA》、《Fate/EXTELLA LINK》。"
       }
     },
     "fate extella": {
@@ -58965,6 +59487,87 @@
       "zh-CN": {
         "name": "钟楼怪人",
         "intro": "《钟楼怪人》（英语：The Hunchback of Notre Dame）是一部由华特迪士尼制作、于1996年首次上映的电脑动画电影。它的上映日期是1996年6月21日（香港则于同年7月4日上映），为第36部华特迪士尼经典动画长片。这部电影的原型是维克多·雨果的作品《巴黎圣母院》，虽然仍保有原作故事的基本架构，但是这部电影却改动了原作的大部分情节。其剧情重点放在一位吉普赛人舞者爱丝梅拉达、费比斯队长和加西莫多的三角恋上。其中加西莫多是主角，他在巴黎圣母院的钟楼中负责敲钟，长相虽然很丑陋却心地善良。"
+      }
+    },
+    "futari wa precure splash star": {
+      "en-US": {
+        "name": "futari wa precure splash star"
+      },
+      "zh-CN": {
+        "name": "光之美少女Splash Star",
+        "intro": "这系列太多了，我没看过根本不认识，随便搞个封面看吧"
+      }
+    },
+    "kamen rider drive": {
+      "en-US": {
+        "name": "kamen rider drive"
+      },
+      "zh-CN": {
+        "name": "假面骑士Drive",
+        "intro": ""
+      }
+    },
+    "kamen rider ex-aid": {
+      "en-US": {
+        "name": "kamen rider ex-aid"
+      },
+      "zh-CN": {
+        "name": "假面骑士EX-AID",
+        "intro": ""
+      }
+    },
+    "macross plus": {
+      "en-US": {
+        "name": "macross plus"
+      },
+      "zh-CN": {
+        "name": "超时空要塞Plus",
+        "intro": ""
+      }
+    },
+    "macross vf-x": {
+      "en-US": {
+        "name": "macross vf-x"
+      },
+      "zh-CN": {
+        "name": "超时空要塞VF-X",
+        "intro": ""
+      }
+    },
+    "watashi no ashinaga ojisan": {
+      "en-US": {
+        "name": "watashi no ashinaga ojisan"
+      },
+      "zh-CN": {
+        "name": "长腿叔叔",
+        "intro": ""
+      }
+    },
+    "shining soul": {
+      "en-US": {
+        "name": "shining soul"
+      },
+      "zh-CN": {
+        "name": "光明之魂",
+        "intro": ""
+      }
+    },
+    "kodoku no gourmet": {
+      "en-US": {
+        "name": "kodoku no gourmet"
+      },
+      "zh-CN": {
+        "name": "孤独的美食家",
+        "intro": ""
+      }
+    },
+    "kishuku gakkou no juliet": {
+      "en-US": {
+        "name": "kishuku gakkou no juliet"
+      },
+      "zh-CN": {
+        "name": "寄宿学校的朱丽叶",
+        "intro": "《寄宿学校的朱丽叶》（日语：寄宿学校のジュリエット）为漫画家金田阳介所作的日本少年漫画，是以威廉·莎士比亚的戏剧作品《罗密欧与茱丽叶》为蓝本改编的作品。"
       }
     }
   },
@@ -75832,7 +76435,7 @@
       },
       "zh-CN": {
         "name": "大礼服假面",
-        "intro": ""
+        "intro": "地场卫"
       }
     },
     "usagi tsukino": {
@@ -75850,7 +76453,7 @@
       },
       "zh-CN": {
         "name": "水手月亮",
-        "intro": ""
+        "intro": "月野兔"
       }
     },
     "chibiusa": {
@@ -75868,7 +76471,7 @@
       },
       "zh-CN": {
         "name": "水手小月亮",
-        "intro": ""
+        "intro": "小小兔"
       }
     },
     "ami mizuno": {
@@ -75886,7 +76489,7 @@
       },
       "zh-CN": {
         "name": "水手水星",
-        "intro": ""
+        "intro": "水野亚美"
       }
     },
     "rei hino": {
@@ -75904,7 +76507,7 @@
       },
       "zh-CN": {
         "name": "水手火星",
-        "intro": ""
+        "intro": "火野丽"
       }
     },
     "makoto kino": {
@@ -75922,7 +76525,7 @@
       },
       "zh-CN": {
         "name": "水手木星",
-        "intro": ""
+        "intro": "木野真琴"
       }
     },
     "minako aino": {
@@ -75940,7 +76543,7 @@
       },
       "zh-CN": {
         "name": "水手金星",
-        "intro": ""
+        "intro": "爱野美奈子"
       }
     },
     "hotaru tomoe": {
@@ -75958,7 +76561,7 @@
       },
       "zh-CN": {
         "name": "水手土星",
-        "intro": ""
+        "intro": "土萌萤"
       }
     },
     "michiru kaioh": {
@@ -75976,7 +76579,7 @@
       },
       "zh-CN": {
         "name": "水手海王星",
-        "intro": ""
+        "intro": "海王满"
       }
     },
     "haruka tenoh": {
@@ -75994,7 +76597,7 @@
       },
       "zh-CN": {
         "name": "水手天王星",
-        "intro": ""
+        "intro": "天王遥"
       }
     },
     "setsuna meioh": {
@@ -76012,7 +76615,7 @@
       },
       "zh-CN": {
         "name": "水手冥王星",
-        "intro": ""
+        "intro": "冥王雪奈"
       }
     },
     "kenji tsukino": {
@@ -79765,7 +80368,7 @@
       },
       "zh-CN": {
         "name": "克洛伊·冯·爱因兹贝伦",
-        "intro": ""
+        "intro": "小黑，伊莉雅身上分裂并实体化的人格"
       }
     },
     "marie rose": {
@@ -80026,6 +80629,402 @@
       },
       "zh-CN": {
         "name": "吉田优子",
+        "intro": ""
+      }
+    },
+    "aya fujisaki": {
+      "en-US": {
+        "name": "aya fujisaki"
+      },
+      "zh-CN": {
+        "name": "藤崎绫",
+        "intro": ""
+      }
+    },
+    "kenichi saruyama": {
+      "en-US": {
+        "name": "kenichi saruyama"
+      },
+      "zh-CN": {
+        "name": "猿山健一",
+        "intro": ""
+      }
+    },
+    "meltryllis": {
+      "en-US": {
+        "name": "meltryllis"
+      },
+      "zh-CN": {
+        "name": "溶解莉莉丝",
+        "intro": ""
+      }
+    },
+    "nobunaga oda": {
+      "en-US": {
+        "name": "nobunaga oda"
+      },
+      "zh-CN": {
+        "name": "织田信长",
+        "intro": ""
+      }
+    },
+    "nojaoji": {
+      "en-US": {
+        "name": "nojaoji"
+      },
+      "zh-CN": {
+        "name": "Mikoko",
+        "intro": "Mikoko（日语：みここ）是Nekomasu作为虚拟YouTuber活动时的主要形象。形象为双马尾萝莉狐娘。在使用此形象时，Nekomasu自称虚拟口癖萝莉狐娘YouTuber大叔（バーチャルのじゃロリ狐娘Youtuberおじさん，简称のじゃおじ），并在句尾附上のじゃ的口癖。"
+      }
+    },
+    "reines el-melloi archisorte": {
+      "en-US": {
+        "name": "reines el-melloi archisorte"
+      },
+      "zh-CN": {
+        "name": "莱妮丝·埃尔梅罗·阿奇佐尔缇",
+        "intro": ""
+      }
+    },
+    "rindou mikoto": {
+      "en-US": {
+        "name": "rindou mikoto"
+      },
+      "zh-CN": {
+        "name": "龙胆尊",
+        "intro": ""
+      }
+    },
+    "hotaru ichijou": {
+      "en-US": {
+        "name": "hotaru ichijou"
+      },
+      "zh-CN": {
+        "name": "一条萤",
+        "intro": ""
+      }
+    },
+    "komari koshigaya": {
+      "en-US": {
+        "name": "komari koshigaya"
+      },
+      "zh-CN": {
+        "name": "越谷小鞠",
+        "intro": ""
+      }
+    },
+    "renown": {
+      "en-US": {
+        "name": "renown"
+      },
+      "zh-CN": {
+        "name": "声望",
+        "intro": ""
+      }
+    },
+    "maria balthasar": {
+      "en-US": {
+        "name": "maria balthasar"
+      },
+      "zh-CN": {
+        "name": "玛利亚·巴尔塔札尔",
+        "intro": ""
+      }
+    },
+    "emeralda kasim": {
+      "en-US": {
+        "name": "emeralda kasim"
+      },
+      "zh-CN": {
+        "name": "艾美拉达·卡西姆",
+        "intro": ""
+      }
+    },
+    "ai hinatsuru": {
+      "en-US": {
+        "name": "ai hinatsuru"
+      },
+      "zh-CN": {
+        "name": "雏鹤爱",
+        "intro": ""
+      }
+    },
+    "ginko sora": {
+      "en-US": {
+        "name": "ginko sora"
+      },
+      "zh-CN": {
+        "name": "空银子",
+        "intro": ""
+      }
+    },
+    "chariot": {
+      "en-US": {
+        "name": "chariot"
+      },
+      "zh-CN": {
+        "name": "战轮妖精",
+        "intro": ""
+      }
+    },
+    "strength": {
+      "en-US": {
+        "name": "strength"
+      },
+      "zh-CN": {
+        "name": "力量",
+        "intro": ""
+      }
+    },
+    "chang chun": {
+      "en-US": {
+        "name": "chang chun"
+      },
+      "zh-CN": {
+        "name": "长春",
+        "intro": ""
+      }
+    },
+    "kirika akatsuki": {
+      "en-US": {
+        "name": "kirika akatsuki"
+      },
+      "zh-CN": {
+        "name": "晓切歌",
+        "intro": ""
+      }
+    },
+    "asuha chigusa": {
+      "en-US": {
+        "name": "asuha chigusa"
+      },
+      "zh-CN": {
+        "name": "千种明日叶",
+        "intro": ""
+      }
+    },
+    "kasumi chigusa": {
+      "en-US": {
+        "name": "kasumi chigusa"
+      },
+      "zh-CN": {
+        "name": "千种霞",
+        "intro": ""
+      }
+    },
+    "ange katrina": {
+      "en-US": {
+        "name": "ange katrina"
+      },
+      "zh-CN": {
+        "name": "安洁·卡特莉娜",
+        "intro": ""
+      }
+    },
+    "cagliostro": {
+      "en-US": {
+        "name": "cagliostro"
+      },
+      "zh-CN": {
+        "name": "卡莉奥斯特萝",
+        "intro": ""
+      }
+    },
+    "kyouka hikawa": {
+      "en-US": {
+        "name": "kyouka hikawa"
+      },
+      "zh-CN": {
+        "name": "冰川镜华",
+        "intro": ""
+      }
+    },
+    "retoree": {
+      "en-US": {
+        "name": "retoree"
+      },
+      "zh-CN": {
+        "name": "莱托莉",
+        "intro": ""
+      }
+    },
+    "cyan hijirikawa": {
+      "en-US": {
+        "name": "cyan hijirikawa"
+      },
+      "zh-CN": {
+        "name": "希安（圣川诗杏）",
+        "intro": ""
+      }
+    },
+    "saren sasaki": {
+      "en-US": {
+        "name": "saren sasaki"
+      },
+      "zh-CN": {
+        "name": "佐佐木咲恋",
+        "intro": ""
+      }
+    },
+    "niyon": {
+      "en-US": {
+        "name": "niyon"
+      },
+      "zh-CN": {
+        "name": "妮欧",
+        "intro": ""
+      }
+    },
+    "yuel": {
+      "en-US": {
+        "name": "yuel"
+      },
+      "zh-CN": {
+        "name": "尤艾尔",
+        "intro": ""
+      }
+    },
+    "societte": {
+      "en-US": {
+        "name": "societte"
+      },
+      "zh-CN": {
+        "name": "苏丝雅",
+        "intro": ""
+      }
+    },
+    "kanau kongou": {
+      "en-US": {
+        "name": "kanau kongou"
+      },
+      "zh-CN": {
+        "name": "金刚叶",
+        "intro": ""
+      }
+    },
+    "yuuko aioi": {
+      "en-US": {
+        "name": "yuuko aioi"
+      },
+      "zh-CN": {
+        "name": "相生祐子",
+        "intro": ""
+      }
+    },
+    "mio naganohara": {
+      "en-US": {
+        "name": "mio naganohara"
+      },
+      "zh-CN": {
+        "name": "长野原美绪",
+        "intro": ""
+      }
+    },
+    "mai minakami": {
+      "en-US": {
+        "name": "mai minakami"
+      },
+      "zh-CN": {
+        "name": "水上麻衣",
+        "intro": ""
+      }
+    },
+    "nano shinonome": {
+      "en-US": {
+        "name": "nano shinonome"
+      },
+      "zh-CN": {
+        "name": "东云名乃",
+        "intro": ""
+      }
+    },
+    "hakase shinonome": {
+      "en-US": {
+        "name": "hakase shinonome"
+      },
+      "zh-CN": {
+        "name": "东云博士",
+        "intro": ""
+      }
+    },
+    "ririchiyo shirakiin": {
+      "en-US": {
+        "name": "ririchiyo shirakiin"
+      },
+      "zh-CN": {
+        "name": "白鬼院凛凛蝶",
+        "intro": ""
+      }
+    },
+    "sana inui": {
+      "en-US": {
+        "name": "sana inui"
+      },
+      "zh-CN": {
+        "name": "乾纱凪",
+        "intro": ""
+      }
+    },
+    "gotland": {
+      "en-US": {
+        "name": "gotland"
+      },
+      "zh-CN": {
+        "name": "哥特兰",
+        "intro": ""
+      }
+    },
+    "nanachi": {
+      "en-US": {
+        "name": "nanachi"
+      },
+      "zh-CN": {
+        "name": "娜娜奇",
+        "intro": "香喷喷毛茸茸的娜娜奇。出自来自深渊（Made in Abyss)"
+      }
+    },
+    "grecale": {
+      "en-US": {
+        "name": "grecale"
+      },
+      "zh-CN": {
+        "name": "东北风",
+        "intro": ""
+      }
+    },
+    "nursery rhyme": {
+      "en-US": {
+        "name": "nursery rhyme"
+      },
+      "zh-CN": {
+        "name": "童谣",
+        "intro": ""
+      }
+    },
+    "hasuki komai": {
+      "en-US": {
+        "name": "hasuki komai"
+      },
+      "zh-CN": {
+        "name": "狛井莲季",
+        "intro": "狛井莲季是由金田阳介所创作的漫画《寄宿学校的朱丽叶》及其衍生作品的登场角色。黑犬公寓高等部二年级生，黑犬公寓监督生副长兼会计。 犬冢的青梅竹马，喜欢犬冢露壬雄，为了代替被赶下队长职位的战犯犬冢，由莲季担任一年级队长。 虽然得知犬冢喜欢朱丽叶·佩尔西亚并且在交往，不过并没有告诉其他人，但是却仍然喜欢着他。 戴上眼镜的时候性格会如同变了一个人，一个非常严厉的“教师”！ 最终话在自己决定的梦想以及拉格多尔的帮助下，成为了一名演员！"
+      }
+    },
+    "juliet persia": {
+      "en-US": {
+        "name": "juliet persia"
+      },
+      "zh-CN": {
+        "name": "朱丽叶·佩尔西亚",
+        "intro": "漫画作品《寄宿学校的朱丽叶》的女主角，达利亚学园高中部学生，白猫宿舍本人所在年级的领导者。\n朱丽叶是威斯特公国贵族的独生女，因当时社会认定家族继承人只能由男性担任而从小磨练自己，背负了巨大压力，也因此希望改变世界法则。\n和犬冢露壬雄是从小到大的对手，喜欢犬冢露壬雄，在接受对方的告白后经常在他面前露出娇羞的表情。性格温柔，气质优雅，心地善良，平时威风凛凛，然而一见到露壬雄就……"
+      }
+    },
+    "romio inuzuka": {
+      "en-US": {
+        "name": "romio inuzuka"
+      },
+      "zh-CN": {
+        "name": "犬冢露壬雄",
         "intro": ""
       }
     }
